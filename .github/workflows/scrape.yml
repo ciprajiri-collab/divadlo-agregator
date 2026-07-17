@@ -24,7 +24,7 @@ jobs:
         run: pip install requests beautifulsoup4 lxml
 
       - name: Spusť scraper
-        run: python deploy/scraper.py
+        run: cd deploy && python scraper.py
 
       - name: Ulož výsledky
         run: |
