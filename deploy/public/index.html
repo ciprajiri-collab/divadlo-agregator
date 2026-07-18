@@ -124,11 +124,11 @@
   <!-- Datum -->
   <label>Kdy</label>
   <div class="date-group">
-    <button class="date-btn active" id="dateVse"      onclick="setDate('vse')">Vše</button>
-    <button class="date-btn"        id="dateTyden"    onclick="setDate('tyden')">Tento týden</button>
-    <button class="date-btn"        id="dateVikend"   onclick="setDate('vikend')">Tento víkend</button>
-    <button class="date-btn"        id="datePrikVik"  onclick="setDate('pristi')">Příští víkend</button>
-    <button class="date-btn"        id="dateMesic"    onclick="setDate('mesic')">Tento měsíc</button>
+    <button class="date-btn active" id="dateVse"        onclick="setDate('vse')">Vše</button>
+    <button class="date-btn"        id="dateTyden"      onclick="setDate('tyden')">Tento týden</button>
+    <button class="date-btn"        id="datePristiTyd"  onclick="setDate('pristiTyd')">Příští týden</button>
+    <button class="date-btn"        id="dateMesic"      onclick="setDate('mesic')">Tento měsíc</button>
+    <button class="date-btn"        id="datePristiMes"  onclick="setDate('pristiMes')">Příští měsíc</button>
   </div>
 
   <!-- Novinky -->
@@ -177,26 +177,24 @@ function getDateRange(filter) {
     sunday.setDate(monday.getDate() + 6);
     return [monday, sunday];
   }
-  if (filter === 'vikend') {
-    // Nejbližší sobota a neděle
-    const daysToSat = (6 - dow + 7) % 7 || 7;
-    const sat = new Date(now); sat.setDate(now.getDate() + daysToSat);
-    const sun = new Date(sat); sun.setDate(sat.getDate() + 1);
-    // Pokud dnes je sobota nebo neděle, zahrneme dnešek
-    if (dow === 6) { sat.setDate(now.getDate()); }
-    if (dow === 0) { sat.setDate(now.getDate()); sun.setDate(now.getDate()); }
-    return [sat, sun];
-  }
-  if (filter === 'pristi') {
-    // Sobota a neděle za 7–8 dní
-    const daysToSat = (6 - dow + 7) % 7 || 7;
-    const sat = new Date(now); sat.setDate(now.getDate() + daysToSat + 7);
-    const sun = new Date(sat); sun.setDate(sat.getDate() + 1);
-    return [sat, sun];
+  if (filter === 'pristiTyd') {
+    // Pondělí příštího týdne → neděle příštího týdne
+    const monday = new Date(now);
+    monday.setDate(now.getDate() - (dow === 0 ? 6 : dow - 1) + 7);
+    const sunday = new Date(monday);
+    sunday.setDate(monday.getDate() + 6);
+    return [monday, sunday];
   }
   if (filter === 'mesic') {
+    // Od dneška do konce tohoto měsíce
     const start = new Date(now);
     const end   = new Date(now.getFullYear(), now.getMonth() + 1, 0);
+    return [start, end];
+  }
+  if (filter === 'pristiMes') {
+    // Celý příští kalendářní měsíc
+    const start = new Date(now.getFullYear(), now.getMonth() + 1, 1);
+    const end   = new Date(now.getFullYear(), now.getMonth() + 2, 0);
     return [start, end];
   }
   return null; // 'vse'
@@ -288,7 +286,7 @@ function render() {
   const avg = perfs.length ? (perfs.reduce((s,p)=>s+p.cqi,0)/perfs.length).toFixed(1) : '—';
 
   // Popis vybraného datumu
-  const dateLabels = {vse:'Vše',tyden:'Tento týden',vikend:'Tento víkend',pristi:'Příští víkend',mesic:'Tento měsíc'};
+  const dateLabels = {vse:'Vše',tyden:'Tento týden',pristiTyd:'Příští týden',mesic:'Tento měsíc',pristiMes:'Příští měsíc'};
 
   document.getElementById('stats').innerHTML = `
     <div><div class="stat-label">Nalezeno</div><div class="stat-value">${perfs.length}</div></div>
@@ -319,8 +317,8 @@ function render() {
 // ── Ovládání filtrů ───────────────────────────────────────────────────────────
 function setDate(val) {
   dateFilter = val;
-  ['Vse','Tyden','Vikend','PrikVik','Mesic'].forEach(k => {
-    const map = {Vse:'vse',Tyden:'tyden',Vikend:'vikend',PrikVik:'pristi',Mesic:'mesic'};
+  ['Vse','Tyden','PristiTyd','Mesic','PristiMes'].forEach(k => {
+    const map = {Vse:'vse',Tyden:'tyden',PristiTyd:'pristiTyd',Mesic:'mesic',PristiMes:'pristiMes'};
     document.getElementById('date'+k).className = 'date-btn'+(map[k]===val?' active':'');
   });
   render();
