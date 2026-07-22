@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-19T11:10:41.713131",
-  "total": 261,
+  "updated_at": "2026-07-22T07:45:24.365208",
+  "total": 268,
   "performances": [
     {
       "title": "Mohla to být hvězdná chvíle",
@@ -11,6 +11,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -50,7 +51,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:42:58.505322"
+      "scraped_at": "2026-07-22T06:15:07.189187"
     },
     {
       "title": "Kubula a Kuba Kubikula",
@@ -61,6 +62,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -90,7 +92,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:09.918946"
+      "scraped_at": "2026-07-22T06:47:57.752818"
     },
     {
       "title": "Radio and Juliet",
@@ -101,6 +103,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -150,7 +153,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:08.670422"
+      "scraped_at": "2026-07-22T06:48:51.748995"
     },
     {
       "title": "Káťa Kabanová",
@@ -161,6 +164,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 3,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -180,7 +184,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:19:07.606624"
+      "scraped_at": "2026-07-22T06:52:10.305141"
     },
     {
       "title": "Prodaná nevěsta",
@@ -191,6 +195,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -220,7 +225,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:19:51.297865"
+      "scraped_at": "2026-07-22T06:52:50.944723"
     },
     {
       "title": "Faraonova kletba",
@@ -231,6 +236,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -240,7 +246,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:39:56.073318"
+      "scraped_at": "2026-07-22T07:13:48.149780"
     },
     {
       "title": "Láznění",
@@ -251,6 +257,7 @@
       "editorial_rating": null,
       "user_rating": 100.0,
       "cqi": 100.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -280,7 +287,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:00:33.566752"
+      "scraped_at": "2026-07-22T07:34:57.891404"
     },
     {
       "title": "Verneovka",
@@ -291,6 +298,7 @@
       "editorial_rating": null,
       "user_rating": 98.0,
       "cqi": 98.0,
+      "review_count": 4,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -300,7 +308,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:01:07.904979"
+      "scraped_at": "2026-07-22T07:35:37.294319"
     },
     {
       "title": "Les Misérables (Bídníci)",
@@ -311,6 +319,7 @@
       "editorial_rating": 98.0,
       "user_rating": 94.0,
       "cqi": 96.8,
+      "review_count": 55,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -390,7 +399,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:21:44.198338"
+      "scraped_at": "2026-07-22T06:54:52.710002"
     },
     {
       "title": "Edison!",
@@ -401,6 +410,7 @@
       "editorial_rating": null,
       "user_rating": 95.0,
       "cqi": 95.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -420,7 +430,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:48.278824"
+      "scraped_at": "2026-07-22T06:49:33.061895"
     },
     {
       "title": "Věc Makropulos",
@@ -431,6 +441,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -450,7 +461,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:06.584744"
+      "scraped_at": "2026-07-22T06:47:54.541637"
     },
     {
       "title": "Coco Chanel",
@@ -461,6 +472,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -515,7 +527,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:18.534315"
+      "scraped_at": "2026-07-22T06:48:05.702734"
     },
     {
       "title": "Její pastorkyňa",
@@ -526,6 +538,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -540,7 +553,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:18:56.394784"
+      "scraped_at": "2026-07-22T06:52:00.979267"
     },
     {
       "title": "Netopýr",
@@ -551,6 +564,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -575,7 +589,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:19:39.096552"
+      "scraped_at": "2026-07-22T06:52:37.994828"
     },
     {
       "title": "Nejen Mozart!",
@@ -586,6 +600,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -620,7 +635,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:31:30.051708"
+      "scraped_at": "2026-07-22T07:05:12.771673"
     },
     {
       "title": "Mojžíš a Faraon aneb Přechod Rudého moře",
@@ -631,6 +646,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -655,7 +671,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:33:25.629101"
+      "scraped_at": "2026-07-22T07:06:57.809315"
     },
     {
       "title": "S.K.U.P.A.",
@@ -666,6 +682,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -675,7 +692,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:38:28.365053"
+      "scraped_at": "2026-07-22T07:12:20.873088"
     },
     {
       "title": "Loutna česká",
@@ -686,6 +703,7 @@
       "editorial_rating": null,
       "user_rating": 90.0,
       "cqi": 90.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -695,7 +713,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T11:01:12.963086"
+      "scraped_at": "2026-07-22T07:35:42.727126"
     },
     {
       "title": "Její pastorkyňa",
@@ -706,6 +724,7 @@
       "editorial_rating": null,
       "user_rating": 88.0,
       "cqi": 88.0,
+      "review_count": 13,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -730,7 +749,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:22:55.955882"
+      "scraped_at": "2026-07-22T06:56:07.882708"
     },
     {
       "title": "Kinky Boots",
@@ -741,6 +760,7 @@
       "editorial_rating": 87.0,
       "user_rating": 89.0,
       "cqi": 87.6,
+      "review_count": 41,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -755,7 +775,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:22.759862"
+      "scraped_at": "2026-07-22T07:05:59.172960"
     },
     {
       "title": "Doktorka z domu Trubačů",
@@ -766,6 +786,7 @@
       "editorial_rating": 87.0,
       "user_rating": 87.0,
       "cqi": 87.0,
+      "review_count": 18,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -805,7 +826,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:50:57.896404"
+      "scraped_at": "2026-07-22T06:23:00.434621"
     },
     {
       "title": "Matka",
@@ -816,6 +837,7 @@
       "editorial_rating": 87.0,
       "user_rating": 87.0,
       "cqi": 87.0,
+      "review_count": 45,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -855,7 +877,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:12.182083"
+      "scraped_at": "2026-07-22T06:49:56.397396"
     },
     {
       "title": "Jak se stát jiným",
@@ -866,6 +888,7 @@
       "editorial_rating": 85.0,
       "user_rating": 89.0,
       "cqi": 86.2,
+      "review_count": 30,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -885,7 +908,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:49:20.817675"
+      "scraped_at": "2026-07-22T06:21:20.240966"
     },
     {
       "title": "Facka",
@@ -896,6 +919,7 @@
       "editorial_rating": 90.0,
       "user_rating": 77.0,
       "cqi": 86.1,
+      "review_count": 60,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -915,7 +939,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:32:59.186271"
+      "scraped_at": "2026-07-22T06:05:18.866582"
     },
     {
       "title": "Ti druzí",
@@ -926,6 +950,7 @@
       "editorial_rating": null,
       "user_rating": 86.0,
       "cqi": 86.0,
+      "review_count": 19,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -935,7 +960,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:23:50.412656"
+      "scraped_at": "2026-07-22T06:57:00.329197"
     },
     {
       "title": "Czech Cabaret Show",
@@ -946,6 +971,7 @@
       "editorial_rating": null,
       "user_rating": 85.0,
       "cqi": 85.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -975,7 +1001,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:10:15.028518"
+      "scraped_at": "2026-07-22T06:42:57.188025"
     },
     {
       "title": "Vlaštovka",
@@ -986,6 +1012,7 @@
       "editorial_rating": 85.0,
       "user_rating": 85.0,
       "cqi": 85.0,
+      "review_count": 119,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1050,7 +1077,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:14:13.676518"
+      "scraped_at": "2026-07-22T06:46:57.639824"
     },
     {
       "title": "Soudný den",
@@ -1061,6 +1088,7 @@
       "editorial_rating": null,
       "user_rating": 85.0,
       "cqi": 85.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1080,7 +1108,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:36:31.725847"
+      "scraped_at": "2026-07-22T07:10:02.457332"
     },
     {
       "title": "Cyrano z Bergeracu",
@@ -1091,6 +1119,7 @@
       "editorial_rating": null,
       "user_rating": 85.0,
       "cqi": 85.0,
+      "review_count": 3,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1105,7 +1134,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:59:17.743675"
+      "scraped_at": "2026-07-22T07:33:26.169532"
     },
     {
       "title": "Vincenc",
@@ -1116,6 +1145,7 @@
       "editorial_rating": 85.0,
       "user_rating": 83.0,
       "cqi": 84.4,
+      "review_count": 63,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1150,7 +1180,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:55:28.938052"
+      "scraped_at": "2026-07-22T06:28:05.406496"
     },
     {
       "title": "Prachy!",
@@ -1161,6 +1191,7 @@
       "editorial_rating": null,
       "user_rating": 84.0,
       "cqi": 84.0,
+      "review_count": 10,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1175,7 +1206,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:23:18.266096"
+      "scraped_at": "2026-07-22T06:56:29.768272"
     },
     {
       "title": "Splašené nůžky",
@@ -1186,6 +1217,7 @@
       "editorial_rating": null,
       "user_rating": 84.0,
       "cqi": 84.0,
+      "review_count": 23,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1200,7 +1232,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:02:33.570505"
+      "scraped_at": "2026-07-22T07:37:02.220616"
     },
     {
       "title": "Elegance molekuly",
@@ -1211,6 +1243,7 @@
       "editorial_rating": 82.0,
       "user_rating": 88.0,
       "cqi": 83.8,
+      "review_count": 149,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1225,7 +1258,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:32:54.234829"
+      "scraped_at": "2026-07-22T06:05:14.255798"
     },
     {
       "title": "Země mezi mantinely",
@@ -1236,6 +1269,7 @@
       "editorial_rating": 85.0,
       "user_rating": 80.0,
       "cqi": 83.5,
+      "review_count": 23,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1255,7 +1289,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:57:07.088448"
+      "scraped_at": "2026-07-22T06:29:41.311720"
     },
     {
       "title": "Hotel Strindberg",
@@ -1266,6 +1300,7 @@
       "editorial_rating": 90.0,
       "user_rating": 68.0,
       "cqi": 83.4,
+      "review_count": 21,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1280,7 +1315,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:47.588505"
+      "scraped_at": "2026-07-22T06:48:29.627565"
     },
     {
       "title": "Hana",
@@ -1291,6 +1326,7 @@
       "editorial_rating": 83.0,
       "user_rating": 84.0,
       "cqi": 83.3,
+      "review_count": 54,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1305,7 +1341,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:49:44.089560"
+      "scraped_at": "2026-07-22T07:24:05.006628"
     },
     {
       "title": "Vivaldianno The Show",
@@ -1316,6 +1352,7 @@
       "editorial_rating": null,
       "user_rating": 83.0,
       "cqi": 83.0,
+      "review_count": 24,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1360,7 +1397,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:10:10.011515"
+      "scraped_at": "2026-07-22T06:42:51.990663"
     },
     {
       "title": "Pořád jsem to já",
@@ -1371,6 +1408,7 @@
       "editorial_rating": 80.0,
       "user_rating": 90.0,
       "cqi": 83.0,
+      "review_count": 3,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1380,7 +1418,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:59:52.216428"
+      "scraped_at": "2026-07-22T07:33:58.839624"
     },
     {
       "title": "GaGa",
@@ -1391,6 +1429,7 @@
       "editorial_rating": null,
       "user_rating": 83.0,
       "cqi": 83.0,
+      "review_count": 3,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1410,7 +1449,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:00:14.842693"
+      "scraped_at": "2026-07-22T07:34:18.596919"
     },
     {
       "title": "Zářivá verbež",
@@ -1421,6 +1460,7 @@
       "editorial_rating": 80.0,
       "user_rating": 89.0,
       "cqi": 82.7,
+      "review_count": 9,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1440,7 +1480,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:29.104309"
+      "scraped_at": "2026-07-22T06:50:29.643301"
     },
     {
       "title": "Vlastenci",
@@ -1451,6 +1491,7 @@
       "editorial_rating": 80.0,
       "user_rating": 88.0,
       "cqi": 82.4,
+      "review_count": 62,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1470,7 +1511,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:22.796474"
+      "scraped_at": "2026-07-22T06:49:07.912918"
     },
     {
       "title": "PRIMA FACIE / Na první pohled",
@@ -1481,6 +1522,7 @@
       "editorial_rating": 82.0,
       "user_rating": 83.0,
       "cqi": 82.3,
+      "review_count": 71,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1505,7 +1547,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:36:32.572903"
+      "scraped_at": "2026-07-22T06:08:55.318387"
     },
     {
       "title": "Shirley Valentine",
@@ -1516,14 +1558,10 @@
       "editorial_rating": 83.0,
       "user_rating": 80.0,
       "cqi": 82.1,
+      "review_count": 289,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
-        {
-          "text": "21.7 | 19:00",
-          "date": "2026-07-21",
-          "time": "19:00"
-        },
         {
           "text": "1.8 | 20:00 | Divadlo Ungelt| Letní scéna | Vyprodáno",
           "date": "2026-08-01",
@@ -1560,7 +1598,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:49:15.280050"
+      "scraped_at": "2026-07-22T06:21:26.936954"
     },
     {
       "title": "Já, Feuerbach",
@@ -1571,6 +1609,7 @@
       "editorial_rating": null,
       "user_rating": 82.0,
       "cqi": 82.0,
+      "review_count": 12,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1590,7 +1629,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:53:51.711085"
+      "scraped_at": "2026-07-22T06:26:17.705356"
     },
     {
       "title": "Rusalka",
@@ -1601,6 +1640,7 @@
       "editorial_rating": null,
       "user_rating": 82.0,
       "cqi": 82.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1610,7 +1650,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:19:59.301672"
+      "scraped_at": "2026-07-22T06:52:59.656852"
     },
     {
       "title": "Klaus Mann napsal Mefista",
@@ -1621,6 +1661,7 @@
       "editorial_rating": null,
       "user_rating": 82.0,
       "cqi": 82.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1640,7 +1681,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:36:34.717430"
+      "scraped_at": "2026-07-22T07:10:06.962379"
     },
     {
       "title": "Tramvaj do stanice Touha",
@@ -1651,6 +1692,7 @@
       "editorial_rating": 81.0,
       "user_rating": 84.0,
       "cqi": 81.9,
+      "review_count": 240,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1665,7 +1707,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:39:53.084143"
+      "scraped_at": "2026-07-22T06:12:06.054979"
     },
     {
       "title": "Jonáš a tingl-tangl",
@@ -1676,6 +1718,7 @@
       "editorial_rating": 80.0,
       "user_rating": 86.0,
       "cqi": 81.8,
+      "review_count": 11,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1705,7 +1748,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:31:35.114125"
+      "scraped_at": "2026-07-22T07:05:16.325338"
     },
     {
       "title": "Kytice",
@@ -1716,6 +1759,7 @@
       "editorial_rating": 80.0,
       "user_rating": 86.0,
       "cqi": 81.8,
+      "review_count": 5,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1735,7 +1779,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:52:48.471474"
+      "scraped_at": "2026-07-22T07:27:00.343254"
     },
     {
       "title": "Monstrum",
@@ -1746,6 +1790,7 @@
       "editorial_rating": 80.0,
       "user_rating": 85.0,
       "cqi": 81.5,
+      "review_count": 6,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1755,7 +1800,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:59:43.669416"
+      "scraped_at": "2026-07-22T07:33:49.768068"
     },
     {
       "title": "Romeo a Julie",
@@ -1766,6 +1811,7 @@
       "editorial_rating": 82.0,
       "user_rating": 80.0,
       "cqi": 81.4,
+      "review_count": 31,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1815,7 +1861,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:37:01.541359"
+      "scraped_at": "2026-07-22T06:09:26.272132"
     },
     {
       "title": "Vražda krále Gonzaga",
@@ -1826,6 +1872,7 @@
       "editorial_rating": 81.0,
       "user_rating": 81.0,
       "cqi": 81.0,
+      "review_count": 119,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1845,7 +1892,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:32:30.953901"
+      "scraped_at": "2026-07-22T06:04:52.837693"
     },
     {
       "title": "Heda Gablerová - naostro",
@@ -1856,6 +1903,7 @@
       "editorial_rating": 84.0,
       "user_rating": 74.0,
       "cqi": 81.0,
+      "review_count": 58,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1870,7 +1918,7 @@
           "time": "17:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:38:49.292457"
+      "scraped_at": "2026-07-22T06:11:11.405706"
     },
     {
       "title": "Švýcarsko",
@@ -1881,6 +1929,7 @@
       "editorial_rating": 78.0,
       "user_rating": 88.0,
       "cqi": 81.0,
+      "review_count": 12,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1920,7 +1969,7 @@
           "time": "19:00"
         },
         {
-          "text": "29.10 | 19:00",
+          "text": "29.10 | 19:00 | Vyprodáno",
           "date": "2026-10-29",
           "time": "19:00"
         },
@@ -1940,7 +1989,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:07:03.947220"
+      "scraped_at": "2026-07-22T06:39:48.918346"
     },
     {
       "title": "Sluha dvou pánů",
@@ -1951,6 +2000,7 @@
       "editorial_rating": null,
       "user_rating": 81.0,
       "cqi": 81.0,
+      "review_count": 27,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -1980,7 +2030,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:19.369160"
+      "scraped_at": "2026-07-22T06:49:02.524310"
     },
     {
       "title": "Bůh",
@@ -1991,6 +2041,7 @@
       "editorial_rating": null,
       "user_rating": 81.0,
       "cqi": 81.0,
+      "review_count": 10,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2010,7 +2061,98 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:49.889990"
+      "scraped_at": "2026-07-22T07:06:26.162513"
+    },
+    {
+      "title": "Kytice",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/kytice",
+      "editorial_rating": 80.0,
+      "user_rating": 83.0,
+      "cqi": 80.9,
+      "review_count": 334,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "31.8 | 19:00",
+          "date": "2026-08-31",
+          "time": "19:00"
+        },
+        {
+          "text": "1.9 | 19:00",
+          "date": "2026-09-01",
+          "time": "19:00"
+        },
+        {
+          "text": "5.9 | 14:00",
+          "date": "2026-09-05",
+          "time": "14:00"
+        },
+        {
+          "text": "5.9 | 19:00",
+          "date": "2026-09-05",
+          "time": "19:00"
+        },
+        {
+          "text": "6.9 | 19:00",
+          "date": "2026-09-06",
+          "time": "19:00"
+        },
+        {
+          "text": "2.10 | 19:00",
+          "date": "2026-10-02",
+          "time": "19:00"
+        },
+        {
+          "text": "15.11 | 14:00",
+          "date": "2026-11-15",
+          "time": "14:00"
+        },
+        {
+          "text": "15.11 | 19:00",
+          "date": "2026-11-15",
+          "time": "19:00"
+        },
+        {
+          "text": "11.12 | 19:00",
+          "date": "2026-12-11",
+          "time": "19:00"
+        },
+        {
+          "text": "19.12 | 14:00",
+          "date": "2026-12-19",
+          "time": "14:00"
+        },
+        {
+          "text": "19.12 | 19:00",
+          "date": "2026-12-19",
+          "time": "19:00"
+        },
+        {
+          "text": "26.12 | 15:00",
+          "date": "2026-12-26",
+          "time": "15:00"
+        },
+        {
+          "text": "26.12 | 19:00",
+          "date": "2026-12-26",
+          "time": "19:00"
+        },
+        {
+          "text": "15.1 | 17:00",
+          "date": "2027-01-15",
+          "time": "17:00"
+        },
+        {
+          "text": "15.2 | 19:00",
+          "date": "2027-02-15",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T05:58:06.735163"
     },
     {
       "title": "Vrahova hygiena",
@@ -2021,6 +2163,7 @@
       "editorial_rating": 80.0,
       "user_rating": 83.0,
       "cqi": 80.9,
+      "review_count": 11,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2030,32 +2173,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:33:49.830399"
-    },
-    {
-      "title": "Jak jsem byl Cyrano",
-      "theater_name": "Jihočeské divadlo",
-      "city": "České Budějovice",
-      "region": "Jihočeský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/jihoceske-divadlo/jak-jsem-byl-cyrano",
-      "editorial_rating": 78.0,
-      "user_rating": 87.0,
-      "cqi": 80.7,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "9.10 | 10:00 | Divadlo Cylindr| KC Velký mlýn",
-          "date": "2026-10-09",
-          "time": "10:00"
-        },
-        {
-          "text": "10.10 | 15:00 | Divadlo Cylindr| KC Velký mlýn",
-          "date": "2026-10-10",
-          "time": "15:00"
-        }
-      ],
-      "scraped_at": "2026-07-19T11:00:18.323581"
+      "scraped_at": "2026-07-22T06:06:05.010247"
     },
     {
       "title": "Fifty",
@@ -2066,6 +2184,7 @@
       "editorial_rating": 80.0,
       "user_rating": 82.0,
       "cqi": 80.6,
+      "review_count": 76,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2075,7 +2194,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:33:05.653791"
+      "scraped_at": "2026-07-22T06:05:22.696563"
     },
     {
       "title": "Kráska z Leenane",
@@ -2086,6 +2205,7 @@
       "editorial_rating": 80.0,
       "user_rating": 82.0,
       "cqi": 80.6,
+      "review_count": 62,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2120,7 +2240,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:13.194426"
+      "scraped_at": "2026-07-22T06:25:19.824156"
     },
     {
       "title": "Interview",
@@ -2131,6 +2251,7 @@
       "editorial_rating": 80.0,
       "user_rating": 82.0,
       "cqi": 80.6,
+      "review_count": 20,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2150,7 +2271,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:10.960787"
+      "scraped_at": "2026-07-22T07:07:44.055386"
     },
     {
       "title": "Kytice",
@@ -2161,6 +2282,7 @@
       "editorial_rating": 80.0,
       "user_rating": 82.0,
       "cqi": 80.6,
+      "review_count": 42,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2175,7 +2297,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:48:47.842961"
+      "scraped_at": "2026-07-22T07:23:08.947300"
     },
     {
       "title": "Politika správcovny",
@@ -2186,6 +2308,7 @@
       "editorial_rating": 80.0,
       "user_rating": 81.0,
       "cqi": 80.3,
+      "review_count": 32,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2210,7 +2333,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:50.581047"
+      "scraped_at": "2026-07-22T06:27:20.798248"
     },
     {
       "title": "Všechny báječný věci",
@@ -2221,6 +2344,7 @@
       "editorial_rating": 80.0,
       "user_rating": 81.0,
       "cqi": 80.3,
+      "review_count": 45,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2245,7 +2369,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:07:17.191299"
+      "scraped_at": "2026-07-22T06:40:01.646488"
     },
     {
       "title": "Játra",
@@ -2256,6 +2380,7 @@
       "editorial_rating": 80.0,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 23,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2270,7 +2395,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:33:09.807626"
+      "scraped_at": "2026-07-22T06:05:27.254806"
     },
     {
       "title": "Leoš Janáček – Černý anděl, bílý čert",
@@ -2281,6 +2406,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2305,7 +2431,7 @@
           "time": "11:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:08:32.877705"
+      "scraped_at": "2026-07-22T06:41:19.297987"
     },
     {
       "title": "Třináctá láska",
@@ -2316,6 +2442,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2350,7 +2477,7 @@
           "time": "11:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:08:47.275843"
+      "scraped_at": "2026-07-22T06:41:31.855765"
     },
     {
       "title": "Hra, která se zvrtla",
@@ -2361,6 +2488,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 21,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2380,7 +2508,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:22:51.755804"
+      "scraped_at": "2026-07-22T06:56:03.971937"
     },
     {
       "title": "Babylon balet",
@@ -2391,6 +2519,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2435,7 +2564,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:02.702639"
+      "scraped_at": "2026-07-22T07:07:36.743785"
     },
     {
       "title": "Hornické vdovy",
@@ -2446,6 +2575,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 1,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2475,7 +2605,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:07.323202"
+      "scraped_at": "2026-07-22T07:07:40.826408"
     },
     {
       "title": "Povídání o pejskovi a kočičce",
@@ -2486,6 +2616,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2505,7 +2636,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:40:41.655216"
+      "scraped_at": "2026-07-22T07:14:43.275168"
     },
     {
       "title": "Srpen v zemi indiánů",
@@ -2516,6 +2647,7 @@
       "editorial_rating": null,
       "user_rating": 80.0,
       "cqi": 80.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2525,7 +2657,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:59:02.803398"
+      "scraped_at": "2026-07-22T07:33:07.891412"
     },
     {
       "title": "Každý má svou pravdu",
@@ -2536,6 +2668,7 @@
       "editorial_rating": 82.0,
       "user_rating": 75.0,
       "cqi": 79.9,
+      "review_count": 91,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2545,7 +2678,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:33:16.164232"
+      "scraped_at": "2026-07-22T06:05:33.312286"
     },
     {
       "title": "Můj boj. Zamilovaný muž",
@@ -2556,6 +2689,7 @@
       "editorial_rating": 79.0,
       "user_rating": 82.0,
       "cqi": 79.9,
+      "review_count": 86,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2580,7 +2714,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:40:39.229535"
+      "scraped_at": "2026-07-22T06:12:52.724541"
     },
     {
       "title": "Drama v kostce, pokus 2 - Mystérium skutečnosti",
@@ -2591,6 +2725,7 @@
       "editorial_rating": 79.0,
       "user_rating": 82.0,
       "cqi": 79.9,
+      "review_count": 95,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2600,7 +2735,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:57:13.923881"
+      "scraped_at": "2026-07-22T06:29:51.782032"
     },
     {
       "title": "Pan Polštář",
@@ -2611,6 +2746,7 @@
       "editorial_rating": 78.0,
       "user_rating": 84.0,
       "cqi": 79.8,
+      "review_count": 139,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2625,7 +2761,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:51:28.825924"
+      "scraped_at": "2026-07-22T06:23:30.992091"
     },
     {
       "title": "Amatéři",
@@ -2636,6 +2772,7 @@
       "editorial_rating": 78.0,
       "user_rating": 84.0,
       "cqi": 79.8,
+      "review_count": 51,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2725,7 +2862,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:11:14.240416"
+      "scraped_at": "2026-07-22T06:43:53.132910"
     },
     {
       "title": "Jesus Christ Superstar",
@@ -2736,6 +2873,7 @@
       "editorial_rating": 78.0,
       "user_rating": 83.0,
       "cqi": 79.5,
+      "review_count": 53,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2750,7 +2888,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:18.571673"
+      "scraped_at": "2026-07-22T07:05:54.986702"
     },
     {
       "title": "Plíce",
@@ -2761,6 +2899,7 @@
       "editorial_rating": 80.0,
       "user_rating": 78.0,
       "cqi": 79.4,
+      "review_count": 20,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2790,7 +2929,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:44.787065"
+      "scraped_at": "2026-07-22T06:27:15.543211"
     },
     {
       "title": "Čarodějky z Eastwicku",
@@ -2801,6 +2940,7 @@
       "editorial_rating": 80.0,
       "user_rating": 78.0,
       "cqi": 79.4,
+      "review_count": 31,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2830,7 +2970,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:21:31.844781"
+      "scraped_at": "2026-07-22T06:54:42.689142"
     },
     {
       "title": "Klec bláznů",
@@ -2841,6 +2981,7 @@
       "editorial_rating": 78.0,
       "user_rating": 82.0,
       "cqi": 79.2,
+      "review_count": 104,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2870,7 +3011,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:36:56.718255"
+      "scraped_at": "2026-07-22T06:09:21.653135"
     },
     {
       "title": "Radostný výlet",
@@ -2881,6 +3022,7 @@
       "editorial_rating": 80.0,
       "user_rating": 77.0,
       "cqi": 79.1,
+      "review_count": 23,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2905,7 +3047,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:38:29.161818"
+      "scraped_at": "2026-07-22T06:10:51.580147"
     },
     {
       "title": "294 statečných",
@@ -2916,6 +3058,7 @@
       "editorial_rating": 77.0,
       "user_rating": 84.0,
       "cqi": 79.1,
+      "review_count": 181,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2925,7 +3068,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:44:32.530800"
+      "scraped_at": "2026-07-22T06:16:41.146480"
     },
     {
       "title": "Vyhnání Gerty Schnirch",
@@ -2936,6 +3079,7 @@
       "editorial_rating": 77.0,
       "user_rating": 84.0,
       "cqi": 79.1,
+      "review_count": 94,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2950,7 +3094,7 @@
           "time": "17:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:28:58.908247"
+      "scraped_at": "2026-07-22T07:02:23.951468"
     },
     {
       "title": "Žena filmového kritika",
@@ -2961,6 +3105,7 @@
       "editorial_rating": 79.0,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 103,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2970,7 +3115,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:45:52.871580"
+      "scraped_at": "2026-07-22T06:17:59.496856"
     },
     {
       "title": "Iluze",
@@ -2981,6 +3126,7 @@
       "editorial_rating": null,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 16,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -2995,7 +3141,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:53:47.492321"
+      "scraped_at": "2026-07-22T06:26:12.106777"
     },
     {
       "title": "Otec v šestinedělí",
@@ -3006,6 +3152,7 @@
       "editorial_rating": null,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 32,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3040,7 +3187,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:10:01.493064"
+      "scraped_at": "2026-07-22T06:42:42.683063"
     },
     {
       "title": "changes",
@@ -3051,6 +3198,7 @@
       "editorial_rating": null,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 26,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3070,7 +3218,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:42.978017"
+      "scraped_at": "2026-07-22T06:49:30.102577"
     },
     {
       "title": "Faidra (Zatmění)",
@@ -3081,6 +3229,7 @@
       "editorial_rating": null,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 13,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3100,7 +3249,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:53.596875"
+      "scraped_at": "2026-07-22T06:49:38.934891"
     },
     {
       "title": "Déšť",
@@ -3111,6 +3260,7 @@
       "editorial_rating": null,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 11,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3130,7 +3280,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:38.779903"
+      "scraped_at": "2026-07-22T06:50:40.985616"
     },
     {
       "title": "Rebelky",
@@ -3141,6 +3291,7 @@
       "editorial_rating": null,
       "user_rating": 79.0,
       "cqi": 79.0,
+      "review_count": 16,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3160,7 +3311,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:27:11.448703"
+      "scraped_at": "2026-07-22T06:59:30.407210"
     },
     {
       "title": "Ocelové magnolie",
@@ -3171,6 +3322,7 @@
       "editorial_rating": 80.0,
       "user_rating": 76.0,
       "cqi": 78.8,
+      "review_count": 15,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3205,7 +3357,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:21:07.426433"
+      "scraped_at": "2026-07-22T06:54:22.792700"
     },
     {
       "title": "Vykouření",
@@ -3216,6 +3368,7 @@
       "editorial_rating": 77.0,
       "user_rating": 83.0,
       "cqi": 78.8,
+      "review_count": 62,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3225,7 +3378,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:25:25.239583"
+      "scraped_at": "2026-07-22T06:58:44.111940"
     },
     {
       "title": "Líp se loučí v neděli (Tell Me on a Sunday)",
@@ -3236,6 +3389,7 @@
       "editorial_rating": 80.0,
       "user_rating": 76.0,
       "cqi": 78.8,
+      "review_count": 14,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3260,72 +3414,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:18.109862"
-    },
-    {
-      "title": "Jak starý je Měsíc",
-      "theater_name": "Divadlo Ungelt",
-      "city": "Praha",
-      "region": "Praha",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/jak-stary-je-mesic",
-      "editorial_rating": 75.0,
-      "user_rating": 86.0,
-      "cqi": 78.3,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "10.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-10",
-          "time": "20:00"
-        },
-        {
-          "text": "11.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-11",
-          "time": "20:00"
-        },
-        {
-          "text": "13.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-13",
-          "time": "20:00"
-        },
-        {
-          "text": "14.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-14",
-          "time": "20:00"
-        },
-        {
-          "text": "30.10 | 19:00 | Vyprodáno",
-          "date": "2026-10-30",
-          "time": "19:00"
-        },
-        {
-          "text": "31.10 | 19:00 | Vyprodáno",
-          "date": "2026-10-31",
-          "time": "19:00"
-        },
-        {
-          "text": "21.11 | 19:00 | Předplatné DU-1, lze zakoupit pouze jako součást předplatného; Vyprodáno",
-          "date": "2026-11-21",
-          "time": "19:00"
-        },
-        {
-          "text": "29.11 | 19:00 | Vyprodáno",
-          "date": "2026-11-29",
-          "time": "19:00"
-        },
-        {
-          "text": "13.12 | 19:00 | Zadáno; Vyprodáno",
-          "date": "2026-12-13",
-          "time": "19:00"
-        },
-        {
-          "text": "14.12 | 19:00 | Divadlo ABC | Vyprodáno",
-          "date": "2026-12-14",
-          "time": "19:00"
-        }
-      ],
-      "scraped_at": "2026-07-19T10:06:20.644578"
+      "scraped_at": "2026-07-22T07:07:52.647205"
     },
     {
       "title": "Rande s feministou",
@@ -3336,6 +3425,7 @@
       "editorial_rating": 75.0,
       "user_rating": 86.0,
       "cqi": 78.3,
+      "review_count": 29,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3390,7 +3480,7 @@
           "time": "20:00"
         },
         {
-          "text": "7.9 | 19:00 | Letní scéna",
+          "text": "7.9 | 19:00 | Letní scéna | Vyprodáno",
           "date": "2026-09-07",
           "time": "19:00"
         },
@@ -3420,7 +3510,73 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:06:45.789138"
+      "scraped_at": "2026-07-22T06:38:13.347364"
+    },
+    {
+      "title": "Jak starý je Měsíc",
+      "theater_name": "Divadlo Ungelt",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/jak-stary-je-mesic",
+      "editorial_rating": 75.0,
+      "user_rating": 86.0,
+      "cqi": 78.3,
+      "review_count": 5,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "10.8 | 20:00 | Letní scéna | Vyprodáno",
+          "date": "2026-08-10",
+          "time": "20:00"
+        },
+        {
+          "text": "11.8 | 20:00 | Letní scéna | Vyprodáno",
+          "date": "2026-08-11",
+          "time": "20:00"
+        },
+        {
+          "text": "13.8 | 20:00 | Letní scéna | Vyprodáno",
+          "date": "2026-08-13",
+          "time": "20:00"
+        },
+        {
+          "text": "14.8 | 20:00 | Letní scéna | Vyprodáno",
+          "date": "2026-08-14",
+          "time": "20:00"
+        },
+        {
+          "text": "30.10 | 19:00 | Vyprodáno",
+          "date": "2026-10-30",
+          "time": "19:00"
+        },
+        {
+          "text": "31.10 | 19:00 | Vyprodáno",
+          "date": "2026-10-31",
+          "time": "19:00"
+        },
+        {
+          "text": "21.11 | 19:00 | Předplatné DU-1, lze zakoupit pouze jako součást předplatného; Vyprodáno",
+          "date": "2026-11-21",
+          "time": "19:00"
+        },
+        {
+          "text": "29.11 | 19:00 | Vyprodáno",
+          "date": "2026-11-29",
+          "time": "19:00"
+        },
+        {
+          "text": "13.12 | 19:00 | Zadáno; Vyprodáno",
+          "date": "2026-12-13",
+          "time": "19:00"
+        },
+        {
+          "text": "14.12 | 19:00 | Divadlo ABC | Vyprodáno",
+          "date": "2026-12-14",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:39:01.007269"
     },
     {
       "title": "Hon",
@@ -3431,6 +3587,7 @@
       "editorial_rating": 77.0,
       "user_rating": 81.0,
       "cqi": 78.2,
+      "review_count": 23,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3455,7 +3612,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:40:28.385559"
+      "scraped_at": "2026-07-22T06:12:42.350676"
     },
     {
       "title": "RED",
@@ -3466,6 +3623,7 @@
       "editorial_rating": 80.0,
       "user_rating": 74.0,
       "cqi": 78.2,
+      "review_count": 25,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3480,7 +3638,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:48:52.785987"
+      "scraped_at": "2026-07-22T06:20:58.099556"
     },
     {
       "title": "Prezidentky",
@@ -3491,6 +3649,7 @@
       "editorial_rating": 80.0,
       "user_rating": 74.0,
       "cqi": 78.2,
+      "review_count": 35,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3505,7 +3664,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:28:07.814868"
+      "scraped_at": "2026-07-22T07:01:28.333559"
     },
     {
       "title": "Strýček Váňa",
@@ -3516,6 +3675,7 @@
       "editorial_rating": 80.0,
       "user_rating": 74.0,
       "cqi": 78.2,
+      "review_count": 59,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3525,7 +3685,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:28:13.048755"
+      "scraped_at": "2026-07-22T07:01:34.097938"
     },
     {
       "title": "Já, secese",
@@ -3536,6 +3696,7 @@
       "editorial_rating": null,
       "user_rating": 78.0,
       "cqi": 78.0,
+      "review_count": 23,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3565,7 +3726,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:09:56.953566"
+      "scraped_at": "2026-07-22T06:42:38.709935"
     },
     {
       "title": "Holky jako květ",
@@ -3576,6 +3737,7 @@
       "editorial_rating": null,
       "user_rating": 78.0,
       "cqi": 78.0,
+      "review_count": 21,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3600,7 +3762,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:11:43.646671"
+      "scraped_at": "2026-07-22T06:44:34.868485"
     },
     {
       "title": "Šest tanečních hodin v šesti týdnech",
@@ -3611,6 +3773,7 @@
       "editorial_rating": null,
       "user_rating": 78.0,
       "cqi": 78.0,
+      "review_count": 29,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3620,7 +3783,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:27:32.800162"
+      "scraped_at": "2026-07-22T07:00:56.003210"
     },
     {
       "title": "Ztratili jsme Stalina",
@@ -3631,6 +3794,7 @@
       "editorial_rating": null,
       "user_rating": 78.0,
       "cqi": 78.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3640,7 +3804,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:27:43.153218"
+      "scraped_at": "2026-07-22T07:01:02.914908"
     },
     {
       "title": "Velryba",
@@ -3651,6 +3815,7 @@
       "editorial_rating": null,
       "user_rating": 78.0,
       "cqi": 78.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3675,7 +3840,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:33:55.207910"
+      "scraped_at": "2026-07-22T07:07:29.309676"
     },
     {
       "title": "O líné babičce",
@@ -3686,6 +3851,7 @@
       "editorial_rating": null,
       "user_rating": 78.0,
       "cqi": 78.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3715,7 +3881,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:23.817080"
+      "scraped_at": "2026-07-22T07:07:56.971704"
     },
     {
       "title": "Vina?",
@@ -3726,6 +3892,7 @@
       "editorial_rating": 75.0,
       "user_rating": 83.0,
       "cqi": 77.4,
+      "review_count": 79,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3740,7 +3907,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:32:25.293906"
+      "scraped_at": "2026-07-22T06:04:48.143522"
     },
     {
       "title": "Mešita",
@@ -3751,6 +3918,7 @@
       "editorial_rating": 75.0,
       "user_rating": 83.0,
       "cqi": 77.4,
+      "review_count": 32,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3770,7 +3938,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:15.953987"
+      "scraped_at": "2026-07-22T06:50:01.614367"
     },
     {
       "title": "K.Š.E.F.T.",
@@ -3781,6 +3949,7 @@
       "editorial_rating": 77.0,
       "user_rating": 78.0,
       "cqi": 77.3,
+      "review_count": 158,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3800,7 +3969,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:39:07.133535"
+      "scraped_at": "2026-07-22T06:11:28.370118"
     },
     {
       "title": "Můj malý vůdce",
@@ -3811,6 +3980,7 @@
       "editorial_rating": 80.0,
       "user_rating": 71.0,
       "cqi": 77.3,
+      "review_count": 10,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3830,7 +4000,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:51:11.492405"
+      "scraped_at": "2026-07-22T06:23:15.242142"
     },
     {
       "title": "Časokryt",
@@ -3841,6 +4011,7 @@
       "editorial_rating": 78.0,
       "user_rating": 75.0,
       "cqi": 77.1,
+      "review_count": 43,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3865,7 +4036,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:40:23.554177"
+      "scraped_at": "2026-07-22T06:12:37.207244"
     },
     {
       "title": "Koza aneb Kdo je Sylvie?",
@@ -3876,6 +4047,7 @@
       "editorial_rating": 80.0,
       "user_rating": 70.0,
       "cqi": 77.0,
+      "review_count": 49,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3890,7 +4062,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:43:38.225368"
+      "scraped_at": "2026-07-22T06:15:45.323096"
     },
     {
       "title": "Lhář",
@@ -3901,6 +4073,7 @@
       "editorial_rating": null,
       "user_rating": 77.0,
       "cqi": 77.0,
+      "review_count": 31,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3930,7 +4103,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:52.302611"
+      "scraped_at": "2026-07-22T06:48:35.687532"
     },
     {
       "title": "Dracula",
@@ -3941,6 +4114,7 @@
       "editorial_rating": 80.0,
       "user_rating": 70.0,
       "cqi": 77.0,
+      "review_count": 35,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3960,7 +4134,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:38:54.688119"
+      "scraped_at": "2026-07-22T07:12:49.891646"
     },
     {
       "title": "RAPsodie",
@@ -3971,6 +4145,7 @@
       "editorial_rating": null,
       "user_rating": 77.0,
       "cqi": 77.0,
+      "review_count": 3,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -3980,7 +4155,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T11:00:53.922848"
+      "scraped_at": "2026-07-22T07:35:22.622229"
     },
     {
       "title": "Mýcení",
@@ -3991,6 +4166,7 @@
       "editorial_rating": 76.0,
       "user_rating": 79.0,
       "cqi": 76.9,
+      "review_count": 187,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4010,7 +4186,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:41:17.739607"
+      "scraped_at": "2026-07-22T06:13:28.553903"
     },
     {
       "title": "Malý princ",
@@ -4021,6 +4197,7 @@
       "editorial_rating": 78.0,
       "user_rating": 74.0,
       "cqi": 76.8,
+      "review_count": 131,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4055,7 +4232,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:12:18.169577"
+      "scraped_at": "2026-07-22T06:45:13.930627"
     },
     {
       "title": "Hana",
@@ -4066,6 +4243,7 @@
       "editorial_rating": 75.0,
       "user_rating": 81.0,
       "cqi": 76.8,
+      "review_count": 76,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4085,7 +4263,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:42.813210"
+      "scraped_at": "2026-07-22T06:48:25.969049"
     },
     {
       "title": "Company (Přátelé)",
@@ -4096,6 +4274,7 @@
       "editorial_rating": 80.0,
       "user_rating": 69.0,
       "cqi": 76.7,
+      "review_count": 28,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4105,7 +4284,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:37:25.722823"
+      "scraped_at": "2026-07-22T07:11:08.713996"
     },
     {
       "title": "Harold a Maude",
@@ -4116,11 +4295,12 @@
       "editorial_rating": 78.0,
       "user_rating": 73.0,
       "cqi": 76.5,
+      "review_count": 24,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
         {
-          "text": "9.9 | 19:00 | VYPRODÁNO",
+          "text": "9.9 | 19:00",
           "date": "2026-09-09",
           "time": "19:00"
         },
@@ -4130,7 +4310,7 @@
           "time": "19:00"
         },
         {
-          "text": "14.10 | 14:00",
+          "text": "14.10 | 14:00 | VYPRODÁNO",
           "date": "2026-10-14",
           "time": "14:00"
         },
@@ -4150,7 +4330,7 @@
           "time": "14:00"
         },
         {
-          "text": "19.11 | 19:00 | VYPRODÁNO",
+          "text": "19.11 | 19:00",
           "date": "2026-11-19",
           "time": "19:00"
         },
@@ -4170,7 +4350,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:11:39.176451"
+      "scraped_at": "2026-07-22T06:44:29.146533"
     },
     {
       "title": "Žáby",
@@ -4181,6 +4361,7 @@
       "editorial_rating": 75.0,
       "user_rating": 80.0,
       "cqi": 76.5,
+      "review_count": 69,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4205,7 +4386,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:14:30.667481"
+      "scraped_at": "2026-07-22T06:47:15.693048"
     },
     {
       "title": "2:22 - duchařský příběh",
@@ -4216,6 +4397,7 @@
       "editorial_rating": 74.0,
       "user_rating": 82.0,
       "cqi": 76.4,
+      "review_count": 139,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4235,7 +4417,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:38:35.876073"
+      "scraped_at": "2026-07-22T06:10:56.846905"
     },
     {
       "title": "Pan Halpern a pan Johnson",
@@ -4246,6 +4428,7 @@
       "editorial_rating": 75.0,
       "user_rating": 79.0,
       "cqi": 76.2,
+      "review_count": 108,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4285,7 +4468,38 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:06:34.069653"
+      "scraped_at": "2026-07-22T06:39:19.219038"
+    },
+    {
+      "title": "In Our Hands",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/in-our-hands",
+      "editorial_rating": null,
+      "user_rating": 76.0,
+      "cqi": 76.0,
+      "review_count": 7,
+      "is_critic_verified": false,
+      "rating_confidence": "user_only",
+      "dates": [
+        {
+          "text": "20.9 | 17:00 | Stavovské divadlo",
+          "date": "2026-09-20",
+          "time": "17:00"
+        },
+        {
+          "text": "14.11 | 19:00 | Stavovské divadlo",
+          "date": "2026-11-14",
+          "time": "19:00"
+        },
+        {
+          "text": "26.12 | 17:00 | Stavovské divadlo",
+          "date": "2026-12-26",
+          "time": "17:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:01:23.707481"
     },
     {
       "title": "Sen čarovné noci",
@@ -4296,6 +4510,7 @@
       "editorial_rating": null,
       "user_rating": 76.0,
       "cqi": 76.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4320,7 +4535,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:13.973715"
+      "scraped_at": "2026-07-22T06:48:57.083322"
     },
     {
       "title": "Drákula",
@@ -4331,6 +4546,7 @@
       "editorial_rating": null,
       "user_rating": 76.0,
       "cqi": 76.0,
+      "review_count": 14,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4355,7 +4571,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:22:43.112027"
+      "scraped_at": "2026-07-22T06:55:53.360586"
     },
     {
       "title": "Normální detektivní komedie",
@@ -4366,6 +4582,7 @@
       "editorial_rating": null,
       "user_rating": 76.0,
       "cqi": 76.0,
+      "review_count": 27,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4380,7 +4597,28 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:25:13.884489"
+      "scraped_at": "2026-07-22T06:58:29.975026"
+    },
+    {
+      "title": "Podivné odpoledne Dr. Zvonka Burkeho",
+      "theater_name": "Divadlo Bolka Polívky",
+      "city": "Brno",
+      "region": "Jihomoravský kraj",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-bolka-polivky/podivne-odpoledne-dr-zvonka-burkeho",
+      "editorial_rating": null,
+      "user_rating": 76.0,
+      "cqi": 76.0,
+      "review_count": 19,
+      "is_critic_verified": false,
+      "rating_confidence": "user_only",
+      "dates": [
+        {
+          "text": "11.8 | 20:00 | Letní scéna DBP",
+          "date": "2026-08-11",
+          "time": "20:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T07:00:18.334727"
     },
     {
       "title": "Pan Biedermann a žháři",
@@ -4391,6 +4629,7 @@
       "editorial_rating": null,
       "user_rating": 76.0,
       "cqi": 76.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4415,7 +4654,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:28:16.227875"
+      "scraped_at": "2026-07-22T07:01:37.230365"
     },
     {
       "title": "Figarova svatba aneb Bláznivý den",
@@ -4426,6 +4665,7 @@
       "editorial_rating": null,
       "user_rating": 76.0,
       "cqi": 76.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4435,7 +4675,7 @@
           "time": "14:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:37:51.691228"
+      "scraped_at": "2026-07-22T07:11:35.954894"
     },
     {
       "title": "Vtip",
@@ -4446,6 +4686,7 @@
       "editorial_rating": null,
       "user_rating": 76.0,
       "cqi": 76.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4455,7 +4696,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:40:55.316144"
+      "scraped_at": "2026-07-22T07:15:02.489084"
     },
     {
       "title": "Požitkáři",
@@ -4466,6 +4707,7 @@
       "editorial_rating": 75.0,
       "user_rating": 78.0,
       "cqi": 75.9,
+      "review_count": 191,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4480,7 +4722,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:41:39.633343"
+      "scraped_at": "2026-07-22T06:13:48.162578"
     },
     {
       "title": "Divoká kachna",
@@ -4491,6 +4733,7 @@
       "editorial_rating": 75.0,
       "user_rating": 78.0,
       "cqi": 75.9,
+      "review_count": 27,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4515,7 +4758,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:23.861497"
+      "scraped_at": "2026-07-22T06:48:08.876896"
     },
     {
       "title": "Deštivé dny",
@@ -4526,6 +4769,7 @@
       "editorial_rating": 71.0,
       "user_rating": 86.0,
       "cqi": 75.5,
+      "review_count": 188,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4555,12 +4799,12 @@
           "time": "19:00"
         },
         {
-          "text": "14.12 | 19:00",
+          "text": "14.12 | 19:00 | Vyprodáno",
           "date": "2026-12-14",
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:06:06.289622"
+      "scraped_at": "2026-07-22T06:38:45.655327"
     },
     {
       "title": "Bůh masakru",
@@ -4571,6 +4815,7 @@
       "editorial_rating": 76.0,
       "user_rating": 74.0,
       "cqi": 75.4,
+      "review_count": 225,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4580,7 +4825,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:38:42.058298"
+      "scraped_at": "2026-07-22T06:11:01.924830"
     },
     {
       "title": "Zničit",
@@ -4591,6 +4836,7 @@
       "editorial_rating": 75.0,
       "user_rating": 76.0,
       "cqi": 75.3,
+      "review_count": 48,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4605,7 +4851,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:52:19.059055"
+      "scraped_at": "2026-07-22T06:24:26.948082"
     },
     {
       "title": "Monty Python’s Spamalot",
@@ -4616,6 +4862,7 @@
       "editorial_rating": 75.0,
       "user_rating": 76.0,
       "cqi": 75.3,
+      "review_count": 45,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4640,7 +4887,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:21:57.130867"
+      "scraped_at": "2026-07-22T06:55:07.246157"
     },
     {
       "title": "Mamma Mia!",
@@ -4651,6 +4898,7 @@
       "editorial_rating": 75.0,
       "user_rating": 76.0,
       "cqi": 75.3,
+      "review_count": 25,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4725,7 +4973,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:32.132181"
+      "scraped_at": "2026-07-22T07:06:09.182091"
     },
     {
       "title": "Smiley",
@@ -4736,6 +4984,7 @@
       "editorial_rating": 74.0,
       "user_rating": 78.0,
       "cqi": 75.2,
+      "review_count": 49,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4790,7 +5039,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:13:58.081090"
+      "scraped_at": "2026-07-22T06:43:32.117044"
     },
     {
       "title": "Žítkovské bohyně",
@@ -4801,6 +5050,7 @@
       "editorial_rating": 75.0,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 143,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -4810,7 +5060,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:44:22.087751"
+      "scraped_at": "2026-07-22T06:16:30.744320"
     },
     {
       "title": "Oscar pro Emily",
@@ -4821,19 +5071,10 @@
       "editorial_rating": null,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 64,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
-        {
-          "text": "20.7 | 20:00 | Letní scéna Vyšehrad",
-          "date": "2026-07-20",
-          "time": "20:00"
-        },
-        {
-          "text": "21.7 | 20:00 | Letní scéna Vyšehrad",
-          "date": "2026-07-21",
-          "time": "20:00"
-        },
         {
           "text": "8.9 | 19:30 | Malá scéna, Na Perštýně 6, Praha 1",
           "date": "2026-09-08",
@@ -4875,7 +5116,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:10:59.475161"
+      "scraped_at": "2026-07-22T06:46:28.631045"
     },
     {
       "title": "Čertova stěna",
@@ -4886,6 +5127,7 @@
       "editorial_rating": null,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4910,7 +5152,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:18:13.187909"
+      "scraped_at": "2026-07-22T06:51:14.944214"
     },
     {
       "title": "Až na ten konec dobrý",
@@ -4921,6 +5163,7 @@
       "editorial_rating": null,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 13,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4950,32 +5193,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:21:12.253492"
-    },
-    {
-      "title": "Podivné odpoledne Dr. Zvonka Burkeho",
-      "theater_name": "Divadlo Bolka Polívky",
-      "city": "Brno",
-      "region": "Jihomoravský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-bolka-polivky/podivne-odpoledne-dr-zvonka-burkeho",
-      "editorial_rating": null,
-      "user_rating": 75.0,
-      "cqi": 75.0,
-      "is_critic_verified": false,
-      "rating_confidence": "user_only",
-      "dates": [
-        {
-          "text": "20.7 | 20:30 | Letní scéna DBP",
-          "date": "2026-07-20",
-          "time": "20:30"
-        },
-        {
-          "text": "11.8 | 20:00 | Letní scéna DBP",
-          "date": "2026-08-11",
-          "time": "20:00"
-        }
-      ],
-      "scraped_at": "2026-07-19T10:26:12.263449"
+      "scraped_at": "2026-07-22T06:54:26.188135"
     },
     {
       "title": "Trubadúr",
@@ -4986,6 +5204,7 @@
       "editorial_rating": null,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 2,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -4995,7 +5214,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:38:46.109081"
+      "scraped_at": "2026-07-22T07:12:41.064380"
     },
     {
       "title": "Jednou hole, jednou na nože",
@@ -5006,6 +5225,7 @@
       "editorial_rating": null,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 12,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5015,7 +5235,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:40:06.840945"
+      "scraped_at": "2026-07-22T07:14:04.249643"
     },
     {
       "title": "Mladí, krásní a navždy",
@@ -5026,6 +5246,7 @@
       "editorial_rating": 75.0,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 2,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5035,7 +5256,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:58:45.681658"
+      "scraped_at": "2026-07-22T07:32:49.470155"
     },
     {
       "title": "Hra, která se zvrtla",
@@ -5046,6 +5267,7 @@
       "editorial_rating": null,
       "user_rating": 75.0,
       "cqi": 75.0,
+      "review_count": 15,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5060,7 +5282,7 @@
           "time": "09:30"
         }
       ],
-      "scraped_at": "2026-07-19T11:03:03.402899"
+      "scraped_at": "2026-07-22T07:37:33.599642"
     },
     {
       "title": "Už je tady zas!",
@@ -5071,6 +5293,7 @@
       "editorial_rating": 74.0,
       "user_rating": 77.0,
       "cqi": 74.9,
+      "review_count": 76,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5085,7 +5308,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:48:06.356419"
+      "scraped_at": "2026-07-22T06:20:11.483819"
     },
     {
       "title": "Cyrano",
@@ -5096,6 +5319,7 @@
       "editorial_rating": 70.0,
       "user_rating": 86.0,
       "cqi": 74.8,
+      "review_count": 23,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5115,7 +5339,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:49:08.545843"
+      "scraped_at": "2026-07-22T07:23:28.396221"
     },
     {
       "title": "Brácha",
@@ -5126,6 +5350,7 @@
       "editorial_rating": 75.0,
       "user_rating": 74.0,
       "cqi": 74.7,
+      "review_count": 66,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5135,7 +5360,7 @@
           "time": "19:00"
         },
         {
-          "text": "20.11 | 19:00 | Vyprodáno",
+          "text": "20.11 | 19:00",
           "date": "2026-11-20",
           "time": "19:00"
         },
@@ -5145,7 +5370,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:05:54.347350"
+      "scraped_at": "2026-07-22T06:38:24.874192"
     },
     {
       "title": "Paní Dallowayová",
@@ -5156,6 +5381,7 @@
       "editorial_rating": 74.0,
       "user_rating": 76.0,
       "cqi": 74.6,
+      "review_count": 63,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5175,7 +5401,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:41:27.495155"
+      "scraped_at": "2026-07-22T06:13:38.190438"
     },
     {
       "title": "Obejmout vlny",
@@ -5186,6 +5412,7 @@
       "editorial_rating": 70.0,
       "user_rating": 85.0,
       "cqi": 74.5,
+      "review_count": 4,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5195,7 +5422,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:40:31.723378"
+      "scraped_at": "2026-07-22T07:14:28.871637"
     },
     {
       "title": "Krvavá svatba",
@@ -5206,6 +5433,7 @@
       "editorial_rating": 75.0,
       "user_rating": 73.0,
       "cqi": 74.4,
+      "review_count": 6,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5225,7 +5453,63 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:28.498740"
+      "scraped_at": "2026-07-22T07:06:03.775733"
+    },
+    {
+      "title": "Paní Bovaryová",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/pani-bovaryova",
+      "editorial_rating": 73.0,
+      "user_rating": 77.0,
+      "cqi": 74.2,
+      "review_count": 106,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "2.9 | 19:00",
+          "date": "2026-09-02",
+          "time": "19:00"
+        },
+        {
+          "text": "3.9 | 20:00",
+          "date": "2026-09-03",
+          "time": "20:00"
+        },
+        {
+          "text": "19.10 | 19:00 | zadáno",
+          "date": "2026-10-19",
+          "time": "19:00"
+        },
+        {
+          "text": "28.10 | 19:00",
+          "date": "2026-10-28",
+          "time": "19:00"
+        },
+        {
+          "text": "28.12 | 19:00",
+          "date": "2026-12-28",
+          "time": "19:00"
+        },
+        {
+          "text": "29.12 | 19:00",
+          "date": "2026-12-29",
+          "time": "19:00"
+        },
+        {
+          "text": "18.1 | 19:00",
+          "date": "2027-01-18",
+          "time": "19:00"
+        },
+        {
+          "text": "20.1 | 19:00",
+          "date": "2027-01-20",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T05:58:11.720748"
     },
     {
       "title": "Lazarus",
@@ -5236,6 +5520,7 @@
       "editorial_rating": 73.0,
       "user_rating": 77.0,
       "cqi": 74.2,
+      "review_count": 186,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5250,7 +5535,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:51:55.780229"
+      "scraped_at": "2026-07-22T06:23:59.512825"
     },
     {
       "title": "Snímek 51",
@@ -5261,6 +5546,7 @@
       "editorial_rating": 73.0,
       "user_rating": 77.0,
       "cqi": 74.2,
+      "review_count": 67,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5275,7 +5561,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:55:15.665379"
+      "scraped_at": "2026-07-22T06:27:50.300881"
     },
     {
       "title": "Pravda",
@@ -5286,6 +5572,7 @@
       "editorial_rating": 70.0,
       "user_rating": 84.0,
       "cqi": 74.2,
+      "review_count": 7,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5310,7 +5597,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:35.377339"
+      "scraped_at": "2026-07-22T07:08:08.697504"
     },
     {
       "title": "Dogville",
@@ -5321,6 +5608,7 @@
       "editorial_rating": 70.0,
       "user_rating": 84.0,
       "cqi": 74.2,
+      "review_count": 5,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5330,7 +5618,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:37:48.101601"
+      "scraped_at": "2026-07-22T07:11:31.600403"
     },
     {
       "title": "Zakleté dámy",
@@ -5341,6 +5629,7 @@
       "editorial_rating": 72.0,
       "user_rating": 79.0,
       "cqi": 74.1,
+      "review_count": 66,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5360,7 +5649,43 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:39:59.426435"
+      "scraped_at": "2026-07-22T06:12:11.963750"
+    },
+    {
+      "title": "Zázrak (s)tvoření",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/zazrak-stvoreni",
+      "editorial_rating": null,
+      "user_rating": 74.0,
+      "cqi": 74.0,
+      "review_count": 12,
+      "is_critic_verified": false,
+      "rating_confidence": "user_only",
+      "dates": [
+        {
+          "text": "10.10 | 17:00 | Stavovské divadlo",
+          "date": "2026-10-10",
+          "time": "17:00"
+        },
+        {
+          "text": "22.12 | 18:00 | Stavovské divadlo",
+          "date": "2026-12-22",
+          "time": "18:00"
+        },
+        {
+          "text": "25.12 | 14:00 | Stavovské divadlo",
+          "date": "2026-12-25",
+          "time": "14:00"
+        },
+        {
+          "text": "25.12 | 17:00 | Stavovské divadlo",
+          "date": "2026-12-25",
+          "time": "17:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:01:58.751167"
     },
     {
       "title": "Obludov",
@@ -5371,6 +5696,7 @@
       "editorial_rating": null,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 12,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5380,7 +5706,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:32:36.463110"
+      "scraped_at": "2026-07-22T06:04:56.613618"
     },
     {
       "title": "Cabaret",
@@ -5391,6 +5717,7 @@
       "editorial_rating": 74.0,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 65,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5430,7 +5757,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:43:19.192257"
+      "scraped_at": "2026-07-22T06:15:26.783621"
     },
     {
       "title": "Muž mojí ženy",
@@ -5441,6 +5768,7 @@
       "editorial_rating": null,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 57,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5530,7 +5858,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:46:32.062070"
+      "scraped_at": "2026-07-22T06:18:36.729947"
     },
     {
       "title": "Geniální přítelkyně",
@@ -5541,6 +5869,7 @@
       "editorial_rating": 74.0,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 83,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5550,7 +5879,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:49:36.966991"
+      "scraped_at": "2026-07-22T06:21:41.099591"
     },
     {
       "title": "V Y Prodaná nevěsta",
@@ -5561,6 +5890,7 @@
       "editorial_rating": null,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 8,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5575,7 +5905,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:56:59.397681"
+      "scraped_at": "2026-07-22T06:29:31.968835"
     },
     {
       "title": "Držím ti miesto",
@@ -5586,6 +5916,7 @@
       "editorial_rating": null,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 22,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5610,7 +5941,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:24:39.410271"
+      "scraped_at": "2026-07-22T06:57:57.171291"
     },
     {
       "title": "Z pohlavního života našeho lidu",
@@ -5621,6 +5952,7 @@
       "editorial_rating": null,
       "user_rating": 74.0,
       "cqi": 74.0,
+      "review_count": 16,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -5630,7 +5962,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:25:46.326405"
+      "scraped_at": "2026-07-22T06:59:05.821814"
     },
     {
       "title": "Tanec v rodném domě",
@@ -5641,6 +5973,7 @@
       "editorial_rating": 80.0,
       "user_rating": 60.0,
       "cqi": 74.0,
+      "review_count": 7,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5650,7 +5983,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:54:03.556719"
+      "scraped_at": "2026-07-22T07:28:02.617751"
     },
     {
       "title": "Sen o říši krásy",
@@ -5661,6 +5994,7 @@
       "editorial_rating": 80.0,
       "user_rating": 60.0,
       "cqi": 74.0,
+      "review_count": 2,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5685,7 +6019,7 @@
           "time": "21:30"
         }
       ],
-      "scraped_at": "2026-07-19T11:01:24.012293"
+      "scraped_at": "2026-07-22T07:35:50.482749"
     },
     {
       "title": "Six",
@@ -5696,6 +6030,7 @@
       "editorial_rating": 73.0,
       "user_rating": 76.0,
       "cqi": 73.9,
+      "review_count": 65,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5715,7 +6050,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:38:32.803297"
+      "scraped_at": "2026-07-22T07:12:27.066533"
     },
     {
       "title": "Pstruzi",
@@ -5726,6 +6061,7 @@
       "editorial_rating": 73.0,
       "user_rating": 75.0,
       "cqi": 73.6,
+      "review_count": 41,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5745,7 +6081,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:06:39.800172"
+      "scraped_at": "2026-07-22T06:39:28.684849"
     },
     {
       "title": "Vánoce s Popelkou",
@@ -5756,6 +6092,7 @@
       "editorial_rating": 70.0,
       "user_rating": 82.0,
       "cqi": 73.6,
+      "review_count": 21,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5870,7 +6207,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:13:06.329260"
+      "scraped_at": "2026-07-22T06:45:54.211683"
     },
     {
       "title": "Chicago",
@@ -5881,6 +6218,7 @@
       "editorial_rating": 70.0,
       "user_rating": 82.0,
       "cqi": 73.6,
+      "review_count": 26,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5905,7 +6243,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:31:54.818356"
+      "scraped_at": "2026-07-22T07:05:32.924215"
     },
     {
       "title": "A pak usnu a vstanu",
@@ -5916,6 +6254,7 @@
       "editorial_rating": 70.0,
       "user_rating": 82.0,
       "cqi": 73.6,
+      "review_count": 41,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5925,7 +6264,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:49:15.941509"
+      "scraped_at": "2026-07-22T07:23:38.755741"
     },
     {
       "title": "Šoa (Příběh Miloše Dobrého, Příběh Hany Pravdové)",
@@ -5936,6 +6275,7 @@
       "editorial_rating": 72.0,
       "user_rating": 77.0,
       "cqi": 73.5,
+      "review_count": 65,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5955,7 +6295,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:37:35.124509"
+      "scraped_at": "2026-07-22T06:10:03.876211"
     },
     {
       "title": "Ošklivec",
@@ -5966,6 +6306,7 @@
       "editorial_rating": 75.0,
       "user_rating": 70.0,
       "cqi": 73.5,
+      "review_count": 128,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5990,7 +6331,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:38:18.944895"
+      "scraped_at": "2026-07-22T06:10:42.220893"
     },
     {
       "title": "Kati",
@@ -6001,6 +6342,7 @@
       "editorial_rating": 72.0,
       "user_rating": 77.0,
       "cqi": 73.5,
+      "review_count": 170,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6015,7 +6357,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:39:12.666525"
+      "scraped_at": "2026-07-22T06:11:34.813812"
     },
     {
       "title": "Dávno, dávno již tomu (Zpráva o pohřbívání v Čechách)",
@@ -6026,6 +6368,7 @@
       "editorial_rating": 75.0,
       "user_rating": 70.0,
       "cqi": 73.5,
+      "review_count": 4,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6040,7 +6383,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:02:29.911343"
+      "scraped_at": "2026-07-22T07:36:56.802909"
     },
     {
       "title": "Bang",
@@ -6051,6 +6394,7 @@
       "editorial_rating": 70.0,
       "user_rating": 81.0,
       "cqi": 73.3,
+      "review_count": 14,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6060,7 +6404,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:52:53.086426"
+      "scraped_at": "2026-07-22T07:27:05.657478"
     },
     {
       "title": "Pusťte Donnu k maturitě!",
@@ -6071,6 +6415,7 @@
       "editorial_rating": 75.0,
       "user_rating": 69.0,
       "cqi": 73.2,
+      "review_count": 143,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6080,7 +6425,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:45:13.851204"
+      "scraped_at": "2026-07-22T06:17:23.740638"
     },
     {
       "title": "Mlčení bobříků",
@@ -6091,6 +6436,7 @@
       "editorial_rating": 72.0,
       "user_rating": 76.0,
       "cqi": 73.2,
+      "review_count": 102,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6100,7 +6446,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:45:44.782629"
+      "scraped_at": "2026-07-22T06:17:49.875962"
     },
     {
       "title": "Rok na vsi",
@@ -6111,6 +6457,7 @@
       "editorial_rating": 72.0,
       "user_rating": 76.0,
       "cqi": 73.2,
+      "review_count": 27,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6125,7 +6472,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:55:00.373398"
+      "scraped_at": "2026-07-22T06:27:31.196478"
     },
     {
       "title": "Cyrano",
@@ -6136,6 +6483,7 @@
       "editorial_rating": 68.0,
       "user_rating": 85.0,
       "cqi": 73.1,
+      "review_count": 128,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6180,7 +6528,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:53:21.476038"
+      "scraped_at": "2026-07-22T06:25:47.108176"
     },
     {
       "title": "Bitva o Hernaniho",
@@ -6191,6 +6539,7 @@
       "editorial_rating": 73.0,
       "user_rating": 73.0,
       "cqi": 73.0,
+      "review_count": 52,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6200,7 +6549,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:32:44.831671"
+      "scraped_at": "2026-07-22T06:05:06.640615"
     },
     {
       "title": "Zpráva o stavu manželství",
@@ -6211,6 +6560,7 @@
       "editorial_rating": 73.0,
       "user_rating": 73.0,
       "cqi": 73.0,
+      "review_count": 7,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6230,7 +6580,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:50:52.289689"
+      "scraped_at": "2026-07-22T06:22:55.579623"
     },
     {
       "title": "Pokoušení",
@@ -6241,6 +6591,7 @@
       "editorial_rating": null,
       "user_rating": 73.0,
       "cqi": 73.0,
+      "review_count": 22,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -6270,7 +6621,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:15:59.620573"
+      "scraped_at": "2026-07-22T06:48:45.090955"
     },
     {
       "title": "Brněnské metro",
@@ -6281,6 +6632,7 @@
       "editorial_rating": null,
       "user_rating": 73.0,
       "cqi": 73.0,
+      "review_count": 18,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -6305,7 +6657,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:32.789194"
+      "scraped_at": "2026-07-22T06:49:19.002560"
     },
     {
       "title": "Hurvínek prodává nevěstu",
@@ -6316,6 +6668,7 @@
       "editorial_rating": 70.0,
       "user_rating": 80.0,
       "cqi": 73.0,
+      "review_count": 19,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6480,7 +6833,7 @@
           "time": "00:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:16:57.525660"
+      "scraped_at": "2026-07-22T06:49:43.971002"
     },
     {
       "title": "Ztížená možnost soustředění",
@@ -6491,6 +6844,7 @@
       "editorial_rating": null,
       "user_rating": 73.0,
       "cqi": 73.0,
+      "review_count": 37,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -6515,7 +6869,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:34.635285"
+      "scraped_at": "2026-07-22T06:50:35.360758"
     },
     {
       "title": "Lazebník sevillský",
@@ -6526,6 +6880,7 @@
       "editorial_rating": null,
       "user_rating": 73.0,
       "cqi": 73.0,
+      "review_count": 9,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -6540,7 +6895,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:23:05.574073"
+      "scraped_at": "2026-07-22T06:56:17.963753"
     },
     {
       "title": "Tulák po hvězdách",
@@ -6551,6 +6906,7 @@
       "editorial_rating": 70.0,
       "user_rating": 80.0,
       "cqi": 73.0,
+      "review_count": 8,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6560,7 +6916,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T11:00:01.793203"
+      "scraped_at": "2026-07-22T07:34:07.555856"
     },
     {
       "title": "Petr Pan",
@@ -6571,6 +6927,7 @@
       "editorial_rating": 72.0,
       "user_rating": 75.0,
       "cqi": 72.9,
+      "review_count": 74,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6580,7 +6937,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:50:32.812006"
+      "scraped_at": "2026-07-22T06:22:34.180996"
     },
     {
       "title": "Hadry, kosti, kůže",
@@ -6591,6 +6948,7 @@
       "editorial_rating": 73.0,
       "user_rating": 72.0,
       "cqi": 72.7,
+      "review_count": 63,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6620,7 +6978,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:37:21.577628"
+      "scraped_at": "2026-07-22T06:09:47.410121"
     },
     {
       "title": "DONAHA!",
@@ -6631,6 +6989,7 @@
       "editorial_rating": 70.0,
       "user_rating": 79.0,
       "cqi": 72.7,
+      "review_count": 38,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6685,7 +7044,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:47:00.121059"
+      "scraped_at": "2026-07-22T06:19:06.919003"
     },
     {
       "title": "Ztížená možnost soustředění",
@@ -6696,6 +7055,7 @@
       "editorial_rating": 73.0,
       "user_rating": 72.0,
       "cqi": 72.7,
+      "review_count": 11,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6720,7 +7080,78 @@
           "time": "10:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:55:42.149211"
+      "scraped_at": "2026-07-22T06:28:17.758343"
+    },
+    {
+      "title": "Farářův konec",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/fararuv-konec",
+      "editorial_rating": 71.0,
+      "user_rating": 76.0,
+      "cqi": 72.5,
+      "review_count": 49,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "8.9 | 19:00",
+          "date": "2026-09-08",
+          "time": "19:00"
+        },
+        {
+          "text": "9.9 | 19:00",
+          "date": "2026-09-09",
+          "time": "19:00"
+        },
+        {
+          "text": "10.9 | 19:00",
+          "date": "2026-09-10",
+          "time": "19:00"
+        },
+        {
+          "text": "23.10 | 19:00",
+          "date": "2026-10-23",
+          "time": "19:00"
+        },
+        {
+          "text": "1.11 | 17:00",
+          "date": "2026-11-01",
+          "time": "17:00"
+        },
+        {
+          "text": "2.11 | 19:00",
+          "date": "2026-11-02",
+          "time": "19:00"
+        },
+        {
+          "text": "13.12 | 19:00",
+          "date": "2026-12-13",
+          "time": "19:00"
+        },
+        {
+          "text": "30.12 | 19:00",
+          "date": "2026-12-30",
+          "time": "19:00"
+        },
+        {
+          "text": "24.1 | 17:00",
+          "date": "2027-01-24",
+          "time": "17:00"
+        },
+        {
+          "text": "27.1 | 19:00",
+          "date": "2027-01-27",
+          "time": "19:00"
+        },
+        {
+          "text": "27.2 | 17:00",
+          "date": "2027-02-27",
+          "time": "17:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T05:58:53.027949"
     },
     {
       "title": "Něžná je noc",
@@ -6731,6 +7162,7 @@
       "editorial_rating": 68.0,
       "user_rating": 83.0,
       "cqi": 72.5,
+      "review_count": 76,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6750,7 +7182,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:28.616565"
+      "scraped_at": "2026-07-22T06:26:58.297192"
     },
     {
       "title": "The Black Rider",
@@ -6761,6 +7193,7 @@
       "editorial_rating": 73.0,
       "user_rating": 71.0,
       "cqi": 72.4,
+      "review_count": 52,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6780,7 +7213,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:52:14.023757"
+      "scraped_at": "2026-07-22T06:24:20.736409"
     },
     {
       "title": "Veselá vdova",
@@ -6791,6 +7224,7 @@
       "editorial_rating": 70.0,
       "user_rating": 78.0,
       "cqi": 72.4,
+      "review_count": 21,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6800,7 +7234,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:08:16.790798"
+      "scraped_at": "2026-07-22T06:40:59.957856"
     },
     {
       "title": "R/Evoluce",
@@ -6811,6 +7245,7 @@
       "editorial_rating": 70.0,
       "user_rating": 78.0,
       "cqi": 72.4,
+      "review_count": 27,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6830,7 +7265,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:24.574782"
+      "scraped_at": "2026-07-22T06:50:24.435374"
     },
     {
       "title": "Nie sme doma",
@@ -6841,6 +7276,7 @@
       "editorial_rating": 70.0,
       "user_rating": 78.0,
       "cqi": 72.4,
+      "review_count": 24,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6855,7 +7291,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:25:42.114894"
+      "scraped_at": "2026-07-22T06:59:00.833980"
     },
     {
       "title": "Elisabeth",
@@ -6866,6 +7302,7 @@
       "editorial_rating": 73.0,
       "user_rating": 71.0,
       "cqi": 72.4,
+      "review_count": 36,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6900,7 +7337,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:12.187497"
+      "scraped_at": "2026-07-22T07:05:50.697435"
     },
     {
       "title": "Sestra v akci",
@@ -6911,6 +7348,7 @@
       "editorial_rating": 70.0,
       "user_rating": 78.0,
       "cqi": 72.4,
+      "review_count": 19,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6930,7 +7368,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:39:41.572119"
+      "scraped_at": "2026-07-22T07:13:37.484266"
     },
     {
       "title": "Veselá vdova",
@@ -6941,6 +7379,7 @@
       "editorial_rating": 70.0,
       "user_rating": 78.0,
       "cqi": 72.4,
+      "review_count": 21,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6950,7 +7389,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:39:46.626854"
+      "scraped_at": "2026-07-22T07:13:41.139805"
     },
     {
       "title": "Láska na první pohřeb",
@@ -6961,6 +7400,7 @@
       "editorial_rating": 70.0,
       "user_rating": 78.0,
       "cqi": 72.4,
+      "review_count": 11,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -6980,7 +7420,7 @@
           "time": "17:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:49:25.696109"
+      "scraped_at": "2026-07-22T07:23:48.829674"
     },
     {
       "title": "Uvnitř banánu",
@@ -6991,6 +7431,7 @@
       "editorial_rating": 72.0,
       "user_rating": 73.0,
       "cqi": 72.3,
+      "review_count": 56,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7000,7 +7441,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:41:43.973632"
+      "scraped_at": "2026-07-22T06:13:52.181318"
     },
     {
       "title": "Hra, která se zvrtla",
@@ -7011,6 +7452,7 @@
       "editorial_rating": 75.0,
       "user_rating": 66.0,
       "cqi": 72.3,
+      "review_count": 54,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7075,7 +7517,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:43:24.949979"
+      "scraped_at": "2026-07-22T06:15:32.912972"
     },
     {
       "title": "Krásná vzpomínka",
@@ -7086,14 +7528,10 @@
       "editorial_rating": 72.0,
       "user_rating": 73.0,
       "cqi": 72.3,
+      "review_count": 38,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
-        {
-          "text": "21.7 | 20:00 | Letní scéna",
-          "date": "2026-07-21",
-          "time": "20:00"
-        },
         {
           "text": "25.10 | 19:00",
           "date": "2026-10-25",
@@ -7115,7 +7553,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:05:39.385798"
+      "scraped_at": "2026-07-22T06:39:06.504391"
     },
     {
       "title": "Skořápka",
@@ -7126,6 +7564,7 @@
       "editorial_rating": 72.0,
       "user_rating": 73.0,
       "cqi": 72.3,
+      "review_count": 67,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7160,7 +7599,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:06:52.127120"
+      "scraped_at": "2026-07-22T06:39:32.589389"
     },
     {
       "title": "Příběh ze zoo",
@@ -7171,26 +7610,17 @@
       "editorial_rating": 74.0,
       "user_rating": 68.0,
       "cqi": 72.2,
+      "review_count": 44,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
-        {
-          "text": "19.7 | 20:00 | Letní scéna",
-          "date": "2026-07-19",
-          "time": "20:00"
-        },
-        {
-          "text": "20.7 | 20:00 | Letní scéna",
-          "date": "2026-07-20",
-          "time": "20:00"
-        },
         {
           "text": "25.8 | 20:00 | Letní scéna",
           "date": "2026-08-25",
           "time": "20:00"
         },
         {
-          "text": "17.9 | 19:00",
+          "text": "17.9 | 19:00 | Vyprodáno",
           "date": "2026-09-17",
           "time": "19:00"
         },
@@ -7215,7 +7645,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:05:35.452553"
+      "scraped_at": "2026-07-22T06:39:23.470286"
     },
     {
       "title": "Upokojenkyně",
@@ -7226,6 +7656,7 @@
       "editorial_rating": 70.0,
       "user_rating": 77.0,
       "cqi": 72.1,
+      "review_count": 13,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7245,7 +7676,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:56:18.380754"
+      "scraped_at": "2026-07-22T06:28:52.987987"
     },
     {
       "title": "Milostné dopisy",
@@ -7256,6 +7687,7 @@
       "editorial_rating": 70.0,
       "user_rating": 77.0,
       "cqi": 72.1,
+      "review_count": 15,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7290,7 +7722,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:13:26.166149"
+      "scraped_at": "2026-07-22T06:46:13.194044"
     },
     {
       "title": "Podoba věcí",
@@ -7301,6 +7733,7 @@
       "editorial_rating": 70.0,
       "user_rating": 77.0,
       "cqi": 72.1,
+      "review_count": 7,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7320,7 +7753,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:34:27.773089"
+      "scraped_at": "2026-07-22T07:08:01.946001"
     },
     {
       "title": "Do nebes!",
@@ -7331,6 +7764,7 @@
       "editorial_rating": 70.0,
       "user_rating": 77.0,
       "cqi": 72.1,
+      "review_count": 15,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7340,7 +7774,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:53:33.240205"
+      "scraped_at": "2026-07-22T07:27:44.133983"
     },
     {
       "title": "Velká bankovní loupež",
@@ -7351,6 +7785,7 @@
       "editorial_rating": 70.0,
       "user_rating": 77.0,
       "cqi": 72.1,
+      "review_count": 17,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7360,7 +7795,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:54:09.263965"
+      "scraped_at": "2026-07-22T07:28:06.885953"
     },
     {
       "title": "Proč muži neposlouchají a ženy neumí číst v mapách",
@@ -7371,6 +7806,7 @@
       "editorial_rating": null,
       "user_rating": 72.0,
       "cqi": 72.0,
+      "review_count": 33,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -7465,7 +7901,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:47:09.869365"
+      "scraped_at": "2026-07-22T06:19:18.386395"
     },
     {
       "title": "Veselá vdova",
@@ -7476,6 +7912,7 @@
       "editorial_rating": null,
       "user_rating": 72.0,
       "cqi": 72.0,
+      "review_count": 5,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -7485,7 +7922,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:20:13.699899"
+      "scraped_at": "2026-07-22T06:53:30.960778"
     },
     {
       "title": "Kamarádky",
@@ -7496,6 +7933,7 @@
       "editorial_rating": null,
       "user_rating": 72.0,
       "cqi": 72.0,
+      "review_count": 6,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -7515,7 +7953,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:36:27.018898"
+      "scraped_at": "2026-07-22T07:09:57.426355"
     },
     {
       "title": "S Caroline v kuchyni",
@@ -7526,6 +7964,7 @@
       "editorial_rating": null,
       "user_rating": 72.0,
       "cqi": 72.0,
+      "review_count": 24,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -7535,7 +7974,63 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:48:57.895684"
+      "scraped_at": "2026-07-22T07:23:17.751143"
+    },
+    {
+      "title": "Wernisch",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/wernisch",
+      "editorial_rating": 73.0,
+      "user_rating": 69.0,
+      "cqi": 71.8,
+      "review_count": 60,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "15.9 | 19:30 | La Fabrika",
+          "date": "2026-09-15",
+          "time": "19:30"
+        },
+        {
+          "text": "16.9 | 19:30 | La Fabrika",
+          "date": "2026-09-16",
+          "time": "19:30"
+        },
+        {
+          "text": "13.10 | 19:30 | La Fabrika",
+          "date": "2026-10-13",
+          "time": "19:30"
+        },
+        {
+          "text": "14.10 | 19:30 | La Fabrika",
+          "date": "2026-10-14",
+          "time": "19:30"
+        },
+        {
+          "text": "6.11 | 19:30 | La Fabrika",
+          "date": "2026-11-06",
+          "time": "19:30"
+        },
+        {
+          "text": "7.11 | 19:30 | La Fabrika",
+          "date": "2026-11-07",
+          "time": "19:30"
+        },
+        {
+          "text": "12.12 | 19:30 | La Fabrika",
+          "date": "2026-12-12",
+          "time": "19:30"
+        },
+        {
+          "text": "13.12 | 19:30 | La Fabrika",
+          "date": "2026-12-13",
+          "time": "19:30"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:01:55.488486"
     },
     {
       "title": "Dějiny násilí",
@@ -7546,6 +8041,7 @@
       "editorial_rating": 70.0,
       "user_rating": 76.0,
       "cqi": 71.8,
+      "review_count": 82,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7570,7 +8066,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:36:27.617978"
+      "scraped_at": "2026-07-22T06:08:49.836040"
     },
     {
       "title": "Mrzák inishmaanský",
@@ -7581,6 +8077,7 @@
       "editorial_rating": 70.0,
       "user_rating": 76.0,
       "cqi": 71.8,
+      "review_count": 113,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7610,7 +8107,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:24.433880"
+      "scraped_at": "2026-07-22T06:26:52.404256"
     },
     {
       "title": "Slepice na zádech",
@@ -7621,6 +8118,7 @@
       "editorial_rating": 73.0,
       "user_rating": 69.0,
       "cqi": 71.8,
+      "review_count": 47,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7665,7 +8163,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:06:57.081988"
+      "scraped_at": "2026-07-22T06:39:37.813221"
     },
     {
       "title": "Arabela",
@@ -7676,6 +8174,7 @@
       "editorial_rating": 70.0,
       "user_rating": 76.0,
       "cqi": 71.8,
+      "review_count": 21,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7685,7 +8184,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:48:52.852886"
+      "scraped_at": "2026-07-22T07:23:12.240400"
     },
     {
       "title": "Chyťte Chaplina!",
@@ -7696,6 +8195,7 @@
       "editorial_rating": 70.0,
       "user_rating": 76.0,
       "cqi": 71.8,
+      "review_count": 10,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7705,7 +8205,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:53:28.355318"
+      "scraped_at": "2026-07-22T07:27:38.355164"
     },
     {
       "title": "Linda Vista",
@@ -7716,6 +8216,7 @@
       "editorial_rating": 72.0,
       "user_rating": 71.0,
       "cqi": 71.7,
+      "review_count": 74,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7730,7 +8231,43 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:39:29.151781"
+      "scraped_at": "2026-07-22T06:11:47.059766"
+    },
+    {
+      "title": "Valérie a týden divů",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/valerie-a-tyden-divu",
+      "editorial_rating": 68.0,
+      "user_rating": 80.0,
+      "cqi": 71.6,
+      "review_count": 64,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "30.11 | 19:00 | Stavovské divadlo",
+          "date": "2026-11-30",
+          "time": "19:00"
+        },
+        {
+          "text": "22.1 | 19:00 | Stavovské divadlo",
+          "date": "2027-01-22",
+          "time": "19:00"
+        },
+        {
+          "text": "23.1 | 19:00 | Stavovské divadlo",
+          "date": "2027-01-23",
+          "time": "19:00"
+        },
+        {
+          "text": "13.3 | 15:00 | Stavovské divadlo",
+          "date": "2027-03-13",
+          "time": "15:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:01:50.359584"
     },
     {
       "title": "Naprostí cizinci",
@@ -7741,6 +8278,7 @@
       "editorial_rating": 70.0,
       "user_rating": 75.0,
       "cqi": 71.5,
+      "review_count": 35,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7760,7 +8298,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:48:39.432833"
+      "scraped_at": "2026-07-22T06:20:46.049955"
     },
     {
       "title": "Ofélie OnlyFans",
@@ -7771,6 +8309,7 @@
       "editorial_rating": 76.0,
       "user_rating": 61.0,
       "cqi": 71.5,
+      "review_count": 52,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7780,7 +8319,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:52:00.603426"
+      "scraped_at": "2026-07-22T06:24:04.851378"
     },
     {
       "title": "Lebka z Connemary",
@@ -7791,6 +8330,7 @@
       "editorial_rating": 70.0,
       "user_rating": 75.0,
       "cqi": 71.5,
+      "review_count": 39,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7865,37 +8405,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:19.998442"
-    },
-    {
-      "title": "Obraz",
-      "theater_name": "Národní divadlo Brno",
-      "city": "Brno",
-      "region": "Jihomoravský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo-brno/obraz",
-      "editorial_rating": 70.0,
-      "user_rating": 75.0,
-      "cqi": 71.5,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "16.9 | 19:00 | divadlo Reduta | 30 minut před představením probíhá dramaturgický úvod",
-          "date": "2026-09-16",
-          "time": "19:00"
-        },
-        {
-          "text": "15.10 | 19:00 | divadlo Reduta | Zadané představení pro firmu",
-          "date": "2026-10-15",
-          "time": "19:00"
-        },
-        {
-          "text": "28.11 | 19:00 | divadlo Reduta",
-          "date": "2026-11-28",
-          "time": "19:00"
-        }
-      ],
-      "scraped_at": "2026-07-19T10:17:18.984509"
+      "scraped_at": "2026-07-22T06:26:47.786849"
     },
     {
       "title": "Honzlová",
@@ -7906,6 +8416,7 @@
       "editorial_rating": 72.0,
       "user_rating": 70.0,
       "cqi": 71.4,
+      "review_count": 88,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7920,7 +8431,48 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:51:07.424632"
+      "scraped_at": "2026-07-22T06:23:11.367832"
+    },
+    {
+      "title": "Poe",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/poe",
+      "editorial_rating": 70.0,
+      "user_rating": 74.0,
+      "cqi": 71.2,
+      "review_count": 68,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "21.9 | 19:00 | Stavovské divadlo",
+          "date": "2026-09-21",
+          "time": "19:00"
+        },
+        {
+          "text": "21.10 | 19:00 | Stavovské divadlo",
+          "date": "2026-10-21",
+          "time": "19:00"
+        },
+        {
+          "text": "6.12 | 17:00 | Stavovské divadlo",
+          "date": "2026-12-06",
+          "time": "17:00"
+        },
+        {
+          "text": "3.1 | 17:00 | Stavovské divadlo",
+          "date": "2027-01-03",
+          "time": "17:00"
+        },
+        {
+          "text": "4.1 | 19:00 | Stavovské divadlo",
+          "date": "2027-01-04",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:01:41.853408"
     },
     {
       "title": "Nejbližší",
@@ -7931,6 +8483,7 @@
       "editorial_rating": 70.0,
       "user_rating": 74.0,
       "cqi": 71.2,
+      "review_count": 65,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7940,7 +8493,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:39:33.166742"
+      "scraped_at": "2026-07-22T06:11:51.157519"
     },
     {
       "title": "Rokenrol",
@@ -7951,6 +8504,7 @@
       "editorial_rating": 70.0,
       "user_rating": 74.0,
       "cqi": 71.2,
+      "review_count": 25,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -7965,27 +8519,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:12:44.955863"
-    },
-    {
-      "title": "Tenkrát v Rusku",
-      "theater_name": "Komorní scéna Aréna",
-      "city": "Ostrava",
-      "region": "Moravskoslezský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/komorni-scena-arena/tenkrat-v-rusku",
-      "editorial_rating": 70.0,
-      "user_rating": 74.0,
-      "cqi": 71.2,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "9.10 | 18:30 | mimo předplatné",
-          "date": "2026-10-09",
-          "time": "18:30"
-        }
-      ],
-      "scraped_at": "2026-07-19T10:36:54.128565"
+      "scraped_at": "2026-07-22T06:45:35.380294"
     },
     {
       "title": "Na Větrné hůrce",
@@ -7996,6 +8530,7 @@
       "editorial_rating": 70.0,
       "user_rating": 74.0,
       "cqi": 71.2,
+      "review_count": 9,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8010,7 +8545,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:37:20.209424"
+      "scraped_at": "2026-07-22T07:11:04.409379"
     },
     {
       "title": "Pravda",
@@ -8021,6 +8556,7 @@
       "editorial_rating": 70.0,
       "user_rating": 74.0,
       "cqi": 71.2,
+      "review_count": 9,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8030,7 +8566,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:39:30.850557"
+      "scraped_at": "2026-07-22T07:13:27.438996"
     },
     {
       "title": "Mladý Frankenstein",
@@ -8041,6 +8577,7 @@
       "editorial_rating": 70.0,
       "user_rating": 74.0,
       "cqi": 71.2,
+      "review_count": 14,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8055,7 +8592,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:53:56.754043"
+      "scraped_at": "2026-07-22T07:27:52.858811"
     },
     {
       "title": "Bylo nás pět (tenkrát)",
@@ -8066,6 +8603,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 16,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8085,10 +8623,10 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:48:01.874048"
+      "scraped_at": "2026-07-22T06:20:06.042528"
     },
     {
-      "title": "Nanebevzetí doktora Fausta",
+      "title": "Faustiáda aneb Nanebevzetí doktora Fausta",
       "theater_name": "Studio Ypsilon",
       "city": "Praha",
       "region": "Praha",
@@ -8096,6 +8634,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 12,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8110,7 +8649,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:56:36.041686"
+      "scraped_at": "2026-07-22T06:29:02.006979"
     },
     {
       "title": "Lidovky jdou do řiti",
@@ -8121,6 +8660,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 10,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8140,7 +8680,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:06.158852"
+      "scraped_at": "2026-07-22T06:49:52.809476"
     },
     {
       "title": "Krásná Anne-Marie",
@@ -8151,6 +8691,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 7,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8170,7 +8711,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:17:42.574853"
+      "scraped_at": "2026-07-22T06:50:43.959411"
     },
     {
       "title": "Otec",
@@ -8181,6 +8722,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 8,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8190,7 +8732,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:23:14.476944"
+      "scraped_at": "2026-07-22T06:56:25.913797"
     },
     {
       "title": "Oheň a popel",
@@ -8201,6 +8743,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 38,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8215,7 +8758,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:26:51.258129"
+      "scraped_at": "2026-07-22T07:00:10.745026"
     },
     {
       "title": "Věřit v šelmy",
@@ -8226,6 +8769,7 @@
       "editorial_rating": null,
       "user_rating": 71.0,
       "cqi": 71.0,
+      "review_count": 18,
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
@@ -8240,7 +8784,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:28:04.244267"
+      "scraped_at": "2026-07-22T07:01:24.575542"
     },
     {
       "title": "Bar",
@@ -8251,6 +8795,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 21,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8260,7 +8805,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:40:43.987165"
+      "scraped_at": "2026-07-22T06:12:58.582683"
     },
     {
       "title": "Konina",
@@ -8271,6 +8816,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 4,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8280,7 +8826,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:42:12.750019"
+      "scraped_at": "2026-07-22T06:14:20.886308"
     },
     {
       "title": "Ostře sledované vlaky",
@@ -8291,6 +8837,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 35,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8300,7 +8847,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:44:25.301398"
+      "scraped_at": "2026-07-22T06:16:36.012386"
     },
     {
       "title": "Bílá nemoc",
@@ -8311,6 +8858,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 128,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8335,7 +8883,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:49:27.832186"
+      "scraped_at": "2026-07-22T06:21:31.409340"
     },
     {
       "title": "Vánoce u Čapků aneb Jak Karel a Olinka vařilidortcukroví",
@@ -8346,6 +8894,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 16,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8415,7 +8964,7 @@
           "time": "10:45"
         }
       ],
-      "scraped_at": "2026-07-19T09:51:45.179567"
+      "scraped_at": "2026-07-22T06:23:47.028762"
     },
     {
       "title": "Rebelové",
@@ -8426,6 +8975,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 57,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8460,7 +9010,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:08:13.419323"
+      "scraped_at": "2026-07-22T06:40:56.420093"
     },
     {
       "title": "Donaha! (Hole dupy)",
@@ -8471,6 +9021,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 44,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8495,7 +9046,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:32:03.987363"
+      "scraped_at": "2026-07-22T07:05:40.740315"
     },
     {
       "title": "Portrét dámy",
@@ -8506,6 +9057,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 12,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8520,7 +9072,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:49:30.041350"
+      "scraped_at": "2026-07-22T07:23:54.289886"
     },
     {
       "title": "Výstřely na Broadwayi",
@@ -8531,6 +9083,7 @@
       "editorial_rating": 70.0,
       "user_rating": 73.0,
       "cqi": 70.9,
+      "review_count": 6,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8560,7 +9113,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:01:34.232496"
+      "scraped_at": "2026-07-22T07:36:00.002899"
     },
     {
       "title": "Anděl Páně",
@@ -8571,6 +9124,7 @@
       "editorial_rating": 68.0,
       "user_rating": 77.0,
       "cqi": 70.7,
+      "review_count": 93,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8665,7 +9219,58 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:07:51.890328"
+      "scraped_at": "2026-07-22T06:40:36.321041"
+    },
+    {
+      "title": "Heda Gablerová",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/heda-gablerova",
+      "editorial_rating": 70.0,
+      "user_rating": 72.0,
+      "cqi": 70.6,
+      "review_count": 37,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "5.10 | 19:00",
+          "date": "2026-10-05",
+          "time": "19:00"
+        },
+        {
+          "text": "9.10 | 19:00",
+          "date": "2026-10-09",
+          "time": "19:00"
+        },
+        {
+          "text": "3.11 | 19:00",
+          "date": "2026-11-03",
+          "time": "19:00"
+        },
+        {
+          "text": "8.12 | 19:00",
+          "date": "2026-12-08",
+          "time": "19:00"
+        },
+        {
+          "text": "9.12 | 19:00",
+          "date": "2026-12-09",
+          "time": "19:00"
+        },
+        {
+          "text": "9.1 | 19:00",
+          "date": "2027-01-09",
+          "time": "19:00"
+        },
+        {
+          "text": "28.1 | 19:00",
+          "date": "2027-01-28",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:00:47.683392"
     },
     {
       "title": "Ztratili jsme Stalina",
@@ -8676,6 +9281,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 51,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8690,7 +9296,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:34:00.370313"
+      "scraped_at": "2026-07-22T06:06:13.476491"
     },
     {
       "title": "Štyrský/Toyen/Heisler",
@@ -8701,6 +9307,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 31,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8725,7 +9332,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:37:41.203022"
+      "scraped_at": "2026-07-22T06:10:08.738098"
     },
     {
       "title": "Příliš krátká telomera",
@@ -8736,6 +9343,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 26,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8745,7 +9353,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:45:47.988533"
+      "scraped_at": "2026-07-22T06:17:54.407334"
     },
     {
       "title": "Kodaň",
@@ -8756,6 +9364,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 24,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8770,7 +9379,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:54:04.665573"
+      "scraped_at": "2026-07-22T06:26:30.834249"
     },
     {
       "title": "Gadžové jdou do nebe",
@@ -8781,6 +9390,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 18,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8795,7 +9405,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:25:04.262498"
+      "scraped_at": "2026-07-22T06:58:22.265656"
     },
     {
       "title": "Indián v ohrožení",
@@ -8806,6 +9416,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 65,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8820,7 +9431,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-07-19T10:28:27.524068"
+      "scraped_at": "2026-07-22T07:01:52.056983"
     },
     {
       "title": "Slučitelné díly",
@@ -8831,6 +9442,7 @@
       "editorial_rating": 70.0,
       "user_rating": 72.0,
       "cqi": 70.6,
+      "review_count": 36,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8845,7 +9457,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:49:59.557261"
+      "scraped_at": "2026-07-22T07:24:21.569512"
     },
     {
       "title": "Eva!",
@@ -8856,6 +9468,7 @@
       "editorial_rating": 67.0,
       "user_rating": 79.0,
       "cqi": 70.6,
+      "review_count": 36,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8863,9 +9476,14 @@
           "text": "15.9 | 19:00",
           "date": "2026-09-15",
           "time": "19:00"
+        },
+        {
+          "text": "31.10 | 19:00",
+          "date": "2026-10-31",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T11:02:38.344723"
+      "scraped_at": "2026-07-22T07:37:08.275025"
     },
     {
       "title": "Betlém hledá Superstar",
@@ -8876,6 +9494,7 @@
       "editorial_rating": 70.0,
       "user_rating": 71.0,
       "cqi": 70.3,
+      "review_count": 19,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8920,7 +9539,7 @@
           "time": "10:30"
         }
       ],
-      "scraped_at": "2026-07-19T09:46:56.195929"
+      "scraped_at": "2026-07-22T06:19:01.852955"
     },
     {
       "title": "Občan první jakosti",
@@ -8931,6 +9550,7 @@
       "editorial_rating": 70.0,
       "user_rating": 71.0,
       "cqi": 70.3,
+      "review_count": 44,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8950,7 +9570,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:48:42.979886"
+      "scraped_at": "2026-07-22T06:20:50.061063"
     },
     {
       "title": "Dotknout se prázdna",
@@ -8961,6 +9581,7 @@
       "editorial_rating": 70.0,
       "user_rating": 71.0,
       "cqi": 70.3,
+      "review_count": 20,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -8980,7 +9601,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-07-19T09:49:31.027424"
+      "scraped_at": "2026-07-22T06:21:36.934561"
     },
     {
       "title": "Celebrity",
@@ -8991,6 +9612,7 @@
       "editorial_rating": 70.0,
       "user_rating": 71.0,
       "cqi": 70.3,
+      "review_count": 67,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -9000,7 +9622,48 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-07-19T10:11:24.783039"
+      "scraped_at": "2026-07-22T06:44:16.193315"
+    },
+    {
+      "title": "Bílá Voda",
+      "theater_name": "Národní divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo/bila-voda",
+      "editorial_rating": 69.0,
+      "user_rating": 73.0,
+      "cqi": 70.2,
+      "review_count": 82,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "14.9 | 19:00",
+          "date": "2026-09-14",
+          "time": "19:00"
+        },
+        {
+          "text": "18.9 | 19:00",
+          "date": "2026-09-18",
+          "time": "19:00"
+        },
+        {
+          "text": "11.10 | 19:00",
+          "date": "2026-10-11",
+          "time": "19:00"
+        },
+        {
+          "text": "28.11 | 19:00",
+          "date": "2026-11-28",
+          "time": "19:00"
+        },
+        {
+          "text": "18.12 | 19:00",
+          "date": "2026-12-18",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-07-22T06:00:23.982121"
     }
   ]
 }
