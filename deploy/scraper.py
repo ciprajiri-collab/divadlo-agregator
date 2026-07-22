@@ -205,6 +205,10 @@ def parse_performance(html: str, url: str, meta: dict) -> Optional[dict]:
     if not dates:
         return None  # Žádné budoucí termíny
 
+    # Počet uživatelských hodnocení
+    review_el    = soup.select_one("span[itemprop='reviewCount']")
+    review_count = int(review_el.get_text(strip=True)) if review_el else 0
+
     return {
         "title":              title,
         "theater_name":       meta["name"],
@@ -214,6 +218,7 @@ def parse_performance(html: str, url: str, meta: dict) -> Optional[dict]:
         "editorial_rating":   ed,
         "user_rating":        usr,
         "cqi":                score,
+        "review_count":       review_count,
         "is_critic_verified": ed is not None,
         "rating_confidence":  "full" if (ed and usr) else ("user_only" if usr else "editorial_only"),
         "dates":              sorted(dates, key=lambda d: d["date"]),
