@@ -145,6 +145,15 @@
 
   <button class="btn-new" id="newBtn" onclick="toggleNew()">▫ Novinky</button>
 
+  <label>Min. hodnocení</label>
+  <select id="minReviews" onchange="render()" style="width:auto">
+    <option value="0">Vše</option>
+    <option value="10">10+</option>
+    <option value="20">20+</option>
+    <option value="50">50+</option>
+    <option value="100">100+</option>
+  </select>
+
   <div class="sort-group">
     <button class="sort-btn active" id="sortCqi"   onclick="setSort('cqi')">Dle CQI</button>
     <button class="sort-btn"        id="sortAlpha" onclick="setSort('alpha')">A–Z</button>
@@ -278,6 +287,8 @@ function render() {
   let perfs = ALL.filter(p => {
     if (!p.dates.some(d=>new Date(d.date)>=today)) return false;
     if (region && p.region!==region) return false;
+    const minRev = parseInt(document.getElementById('minReviews').value)||0;
+    if (minRev > 0 && (p.review_count||0) < minRev) return false;
     if (onlyNew && !isNew(p)) return false;
     if (range && futureDates(p,range).length===0) return false;
     return true;
