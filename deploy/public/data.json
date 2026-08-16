@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-09T07:31:32.996479",
-  "total": 286,
+  "updated_at": "2026-08-16T06:44:03.074906",
+  "total": 288,
   "performances": [
     {
       "title": "Mohla to být hvězdná chvíle",
@@ -15,11 +15,6 @@
       "is_critic_verified": false,
       "rating_confidence": "user_only",
       "dates": [
-        {
-          "text": "19.8 | 19:30 | Letní scéna Voděrádky (Bez zábradlí z.ú.)",
-          "date": "2026-08-19",
-          "time": "19:30"
-        },
         {
           "text": "7.10 | 19:00",
           "date": "2026-10-07",
@@ -51,7 +46,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:56:59.442096"
+      "scraped_at": "2026-08-16T05:11:57.385653"
     },
     {
       "title": "Kubula a Kuba Kubikula",
@@ -92,7 +87,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:31:37.762721"
+      "scraped_at": "2026-08-16T05:46:14.203517"
     },
     {
       "title": "Radio and Juliet",
@@ -153,7 +148,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:37.568285"
+      "scraped_at": "2026-08-16T05:47:13.683822"
     },
     {
       "title": "Káťa Kabanová",
@@ -184,7 +179,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:35:49.075697"
+      "scraped_at": "2026-08-16T05:50:07.267454"
     },
     {
       "title": "Prodaná nevěsta",
@@ -230,7 +225,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:36:34.634829"
+      "scraped_at": "2026-08-16T05:50:54.432915"
     },
     {
       "title": "Faraonova kletba",
@@ -256,7 +251,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:58:20.978932"
+      "scraped_at": "2026-08-16T06:11:56.600688"
     },
     {
       "title": "Láznění",
@@ -307,7 +302,7 @@
           "time": "11:30"
         }
       ],
-      "scraped_at": "2026-08-09T07:20:17.500471"
+      "scraped_at": "2026-08-16T06:33:30.031023"
     },
     {
       "title": "Verneovka",
@@ -333,7 +328,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:20:52.856027"
+      "scraped_at": "2026-08-16T06:34:06.508999"
     },
     {
       "title": "Les Misérables (Bídníci)",
@@ -424,7 +419,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:38:36.443026"
+      "scraped_at": "2026-08-16T05:52:44.885129"
     },
     {
       "title": "Edison!",
@@ -455,7 +450,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:15.252527"
+      "scraped_at": "2026-08-16T05:47:46.625685"
     },
     {
       "title": "Věc Makropulos",
@@ -486,7 +481,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:31:34.540824"
+      "scraped_at": "2026-08-16T05:46:09.479962"
     },
     {
       "title": "Její pastorkyňa",
@@ -512,7 +507,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:35:39.737695"
+      "scraped_at": "2026-08-16T05:49:58.755642"
     },
     {
       "title": "Louskáček",
@@ -628,7 +623,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:36:08.255978"
+      "scraped_at": "2026-08-16T05:50:27.605510"
     },
     {
       "title": "Netopýr",
@@ -664,7 +659,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:36:19.368968"
+      "scraped_at": "2026-08-16T05:50:41.183174"
     },
     {
       "title": "Nejen Mozart!",
@@ -710,7 +705,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:49:21.313151"
+      "scraped_at": "2026-08-16T06:02:59.971523"
     },
     {
       "title": "Mojžíš a Faraon aneb Přechod Rudého moře",
@@ -751,28 +746,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:51:14.956445"
-    },
-    {
-      "title": "Malý princ",
-      "theater_name": "Jihočeské divadlo",
-      "city": "České Budějovice",
-      "region": "Jihočeský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/jihoceske-divadlo/maly-princ",
-      "editorial_rating": 90.0,
-      "user_rating": null,
-      "cqi": 90.0,
-      "review_count": 0,
-      "is_critic_verified": true,
-      "rating_confidence": "editorial_only",
-      "dates": [
-        {
-          "text": "9.8 | 21:00 | Otáčivé hlediště",
-          "date": "2026-08-09",
-          "time": "21:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T07:18:01.179718"
+      "scraped_at": "2026-08-16T06:05:10.396331"
     },
     {
       "title": "Loutna česká",
@@ -793,7 +767,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T07:20:58.828910"
+      "scraped_at": "2026-08-16T06:34:12.319070"
     },
     {
       "title": "Její pastorkyňa",
@@ -829,7 +803,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:40:01.988326"
+      "scraped_at": "2026-08-16T05:54:04.848296"
     },
     {
       "title": "Kinky Boots",
@@ -875,7 +849,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:50:10.730720"
+      "scraped_at": "2026-08-16T06:03:56.060916"
     },
     {
       "title": "Doktorka z domu Trubačů",
@@ -926,7 +900,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:04:01.221365"
+      "scraped_at": "2026-08-16T05:18:50.218618"
     },
     {
       "title": "Matka",
@@ -977,7 +951,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:41.961553"
+      "scraped_at": "2026-08-16T05:48:11.643892"
     },
     {
       "title": "S.K.U.P.A.",
@@ -1008,7 +982,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:56:53.504845"
+      "scraped_at": "2026-08-16T06:10:30.054441"
     },
     {
       "title": "Facka",
@@ -1037,9 +1011,24 @@
           "text": "29.9 | 19:30 | vyprodáno",
           "date": "2026-09-29",
           "time": "19:30"
+        },
+        {
+          "text": "5.10 | 19:30",
+          "date": "2026-10-05",
+          "time": "19:30"
+        },
+        {
+          "text": "16.10 | 19:30",
+          "date": "2026-10-16",
+          "time": "19:30"
+        },
+        {
+          "text": "30.10 | 19:00 | hrajeme v Drážďaněch / Staatsschauspiel",
+          "date": "2026-10-30",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:52.304761"
+      "scraped_at": "2026-08-16T05:01:16.925367"
     },
     {
       "title": "Ti druzí",
@@ -1060,7 +1049,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:41:04.872979"
+      "scraped_at": "2026-08-16T05:54:58.028077"
     },
     {
       "title": "Rebecca",
@@ -1101,7 +1090,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:58:03.005623"
+      "scraped_at": "2026-08-16T06:11:40.972189"
     },
     {
       "title": "Czech Cabaret Show",
@@ -1142,7 +1131,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:26:18.908610"
+      "scraped_at": "2026-08-16T05:41:07.853264"
     },
     {
       "title": "Vlaštovka",
@@ -1158,12 +1147,12 @@
       "rating_confidence": "full",
       "dates": [
         {
-          "text": "10.9 | 19:30 | Malá scéna, Na Perštýně 6, Praha 1 | VYPRODÁNO",
+          "text": "10.9 | 19:30 | Malá scéna, Na Perštýně 6, Praha 1",
           "date": "2026-09-10",
           "time": "19:30"
         },
         {
-          "text": "12.9 | 19:30 | Malá scéna, Na Perštýně 6, Praha 1 | VYPRODÁNO",
+          "text": "12.9 | 19:30 | Malá scéna, Na Perštýně 6, Praha 1",
           "date": "2026-09-12",
           "time": "19:30"
         },
@@ -1263,7 +1252,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:30:37.924352"
+      "scraped_at": "2026-08-16T05:45:15.069623"
     },
     {
       "title": "Coco Chanel",
@@ -1339,7 +1328,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:31:47.508892"
+      "scraped_at": "2026-08-16T05:46:21.873315"
     },
     {
       "title": "Hornické vdovy",
@@ -1380,7 +1369,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:52:00.542235"
+      "scraped_at": "2026-08-16T06:05:52.604188"
     },
     {
       "title": "Soudný den",
@@ -1411,7 +1400,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:54:32.371137"
+      "scraped_at": "2026-08-16T06:08:19.045338"
     },
     {
       "title": "Cyrano z Bergeracu",
@@ -1457,7 +1446,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T07:18:59.363826"
+      "scraped_at": "2026-08-16T06:32:14.778743"
     },
     {
       "title": "Jak se stát jiným",
@@ -1468,7 +1457,7 @@
       "editorial_rating": 83.0,
       "user_rating": 88.0,
       "cqi": 84.5,
-      "review_count": 39,
+      "review_count": 41,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -1483,7 +1472,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:06:34.308367"
+      "scraped_at": "2026-08-16T05:21:20.851384"
     },
     {
       "title": "Vincenc",
@@ -1529,7 +1518,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:10:44.136779"
+      "scraped_at": "2026-08-16T05:25:44.861198"
     },
     {
       "title": "Prachy!",
@@ -1555,7 +1544,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:40:27.367143"
+      "scraped_at": "2026-08-16T05:54:26.089438"
     },
     {
       "title": "Splašené nůžky",
@@ -1579,9 +1568,14 @@
           "text": "17.9 | 19:00",
           "date": "2026-09-17",
           "time": "19:00"
+        },
+        {
+          "text": "22.10 | 19:00",
+          "date": "2026-10-22",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:22:55.088293"
+      "scraped_at": "2026-08-16T06:35:31.862739"
     },
     {
       "title": "Elegance molekuly",
@@ -1605,9 +1599,14 @@
           "text": "25.9 | 19:30 | vyprodáno",
           "date": "2026-09-25",
           "time": "19:30"
+        },
+        {
+          "text": "24.10 | 19:30",
+          "date": "2026-10-24",
+          "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:47.494433"
+      "scraped_at": "2026-08-16T05:01:10.325459"
     },
     {
       "title": "Země mezi mantinely",
@@ -1638,7 +1637,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:12:27.120687"
+      "scraped_at": "2026-08-16T05:27:20.195936"
     },
     {
       "title": "Hotel Strindberg",
@@ -1664,7 +1663,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:16.490615"
+      "scraped_at": "2026-08-16T05:46:48.877159"
     },
     {
       "title": "Hana",
@@ -1690,7 +1689,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:09:16.012784"
+      "scraped_at": "2026-08-16T06:22:54.305442"
     },
     {
       "title": "Vivaldianno The Show",
@@ -1744,9 +1743,49 @@
           "text": "27.12 | 18:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
           "date": "2026-12-27",
           "time": "18:00"
+        },
+        {
+          "text": "16.1 | 14:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-01-16",
+          "time": "14:00"
+        },
+        {
+          "text": "16.1 | 18:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-01-16",
+          "time": "18:00"
+        },
+        {
+          "text": "27.2 | 14:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-02-27",
+          "time": "14:00"
+        },
+        {
+          "text": "27.2 | 18:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-02-27",
+          "time": "18:00"
+        },
+        {
+          "text": "10.3 | 19:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-03-10",
+          "time": "19:00"
+        },
+        {
+          "text": "27.3 | 18:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-03-27",
+          "time": "18:00"
+        },
+        {
+          "text": "25.4 | 14:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-04-25",
+          "time": "14:00"
+        },
+        {
+          "text": "25.4 | 18:00 | česká i anglická audio verze; Pro rodiny; Pro školy",
+          "date": "2027-04-25",
+          "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:26:15.274134"
+      "scraped_at": "2026-08-16T05:41:02.462387"
     },
     {
       "title": "Srpen v zemi indiánů",
@@ -1777,7 +1816,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:18:40.823869"
+      "scraped_at": "2026-08-16T06:31:58.056090"
     },
     {
       "title": "Pořád jsem to já",
@@ -1808,7 +1847,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:19:36.207648"
+      "scraped_at": "2026-08-16T06:32:49.961599"
     },
     {
       "title": "GaGa",
@@ -1834,7 +1873,28 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:19:57.407276"
+      "scraped_at": "2026-08-16T06:33:09.540059"
+    },
+    {
+      "title": "Dobrý proti severáku",
+      "theater_name": "Městské divadlo Zlín",
+      "city": "Zlín",
+      "region": "Zlínský kraj",
+      "source_url": "https://www.i-divadlo.cz/divadlo/mestske-divadlo-zlin/dobry-proti-severaku",
+      "editorial_rating": null,
+      "user_rating": 83.0,
+      "cqi": 83.0,
+      "review_count": 17,
+      "is_critic_verified": false,
+      "rating_confidence": "user_only",
+      "dates": [
+        {
+          "text": "13.10 | 19:00",
+          "date": "2026-10-13",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T06:36:36.514756"
     },
     {
       "title": "Popelka nazaretská",
@@ -1885,7 +1945,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:54.421862"
+      "scraped_at": "2026-08-16T05:24:55.225542"
     },
     {
       "title": "Zářivá verbež",
@@ -1916,7 +1976,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:34:17.530285"
+      "scraped_at": "2026-08-16T05:48:32.020270"
     },
     {
       "title": "Vlastenci",
@@ -1947,7 +2007,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:51.914683"
+      "scraped_at": "2026-08-16T05:47:27.565236"
     },
     {
       "title": "PRIMA FACIE / Na první pohled",
@@ -1983,7 +2043,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:49:47.886982"
+      "scraped_at": "2026-08-16T05:05:11.375383"
     },
     {
       "title": "Shirley Valentine",
@@ -1998,11 +2058,6 @@
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
-        {
-          "text": "11.8 | 19:00",
-          "date": "2026-08-11",
-          "time": "19:00"
-        },
         {
           "text": "7.9 | 19:00 | Divadlo Bolka Polívky",
           "date": "2026-09-07",
@@ -2029,7 +2084,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:03:48.118726"
+      "scraped_at": "2026-08-16T05:18:58.912392"
     },
     {
       "title": "Já, Feuerbach",
@@ -2060,7 +2115,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:08:51.360587"
+      "scraped_at": "2026-08-16T05:23:39.028584"
     },
     {
       "title": "Rusalka",
@@ -2086,7 +2141,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:36:45.311429"
+      "scraped_at": "2026-08-16T05:51:04.887410"
     },
     {
       "title": "Klaus Mann napsal Mefista",
@@ -2117,7 +2172,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:54:37.697943"
+      "scraped_at": "2026-08-16T06:08:24.680640"
     },
     {
       "title": "Tramvaj do stanice Touha",
@@ -2143,7 +2198,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:53:36.404832"
+      "scraped_at": "2026-08-16T05:08:44.386980"
     },
     {
       "title": "Jonáš a tingl-tangl",
@@ -2189,7 +2244,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:49:26.353234"
+      "scraped_at": "2026-08-16T06:03:04.172542"
     },
     {
       "title": "Kytice",
@@ -2220,7 +2275,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:12:32.404772"
+      "scraped_at": "2026-08-16T06:25:52.714891"
     },
     {
       "title": "Romeo a Julie",
@@ -2281,7 +2336,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:50:21.407502"
+      "scraped_at": "2026-08-16T05:05:44.865072"
     },
     {
       "title": "Monstrum",
@@ -2307,7 +2362,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:19:27.230932"
+      "scraped_at": "2026-08-16T06:32:42.427422"
     },
     {
       "title": "Vražda krále Gonzaga",
@@ -2336,9 +2391,14 @@
           "text": "26.9 | 19:30 | vyprodáno",
           "date": "2026-09-26",
           "time": "19:30"
+        },
+        {
+          "text": "21.10 | 19:30",
+          "date": "2026-10-21",
+          "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:23.139838"
+      "scraped_at": "2026-08-16T05:00:44.858781"
     },
     {
       "title": "Heda Gablerová - naostro",
@@ -2364,7 +2424,7 @@
           "time": "17:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:52:21.546148"
+      "scraped_at": "2026-08-16T05:07:36.472732"
     },
     {
       "title": "Sluha dvou pánů",
@@ -2405,7 +2465,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:45.775254"
+      "scraped_at": "2026-08-16T05:47:22.069222"
     },
     {
       "title": "Bůh",
@@ -2441,7 +2501,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:50:41.200149"
+      "scraped_at": "2026-08-16T06:04:32.336676"
     },
     {
       "title": "Kytice",
@@ -2532,7 +2592,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:37:42.511641"
+      "scraped_at": "2026-08-16T04:53:17.495158"
     },
     {
       "title": "Jak jsem byl Cyrano",
@@ -2558,7 +2618,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:20:01.690887"
+      "scraped_at": "2026-08-16T06:33:15.057094"
     },
     {
       "title": "Fifty",
@@ -2577,9 +2637,14 @@
           "text": "14.9 | 19:30 | vyprodáno",
           "date": "2026-09-14",
           "time": "19:30"
+        },
+        {
+          "text": "19.10 | 19:30",
+          "date": "2026-10-19",
+          "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:59.445207"
+      "scraped_at": "2026-08-16T05:01:21.730602"
     },
     {
       "title": "Vrahova hygiena",
@@ -2598,9 +2663,24 @@
           "text": "16.9 | 19:30 | vyprodáno",
           "date": "2026-09-16",
           "time": "19:30"
+        },
+        {
+          "text": "1.10 | 19:30",
+          "date": "2026-10-01",
+          "time": "19:30"
+        },
+        {
+          "text": "11.10 | 19:00 | hrajeme v Bratislavě / Divadlo Astorka Korzo ´90",
+          "date": "2026-10-11",
+          "time": "19:00"
+        },
+        {
+          "text": "24.10 | 19:00 | hrajeme v Košicích / Divadlo Thália",
+          "date": "2026-10-24",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:46:45.741202"
+      "scraped_at": "2026-08-16T05:02:12.962849"
     },
     {
       "title": "Kráska z Leenane",
@@ -2611,7 +2691,7 @@
       "editorial_rating": 80.0,
       "user_rating": 82.0,
       "cqi": 80.6,
-      "review_count": 62,
+      "review_count": 63,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -2641,7 +2721,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:05.528251"
+      "scraped_at": "2026-08-16T05:24:00.299846"
     },
     {
       "title": "Interview",
@@ -2677,7 +2757,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:52:05.684968"
+      "scraped_at": "2026-08-16T06:05:56.543847"
     },
     {
       "title": "Kytice",
@@ -2703,68 +2783,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:08:12.391339"
-    },
-    {
-      "title": "Švýcarsko",
-      "theater_name": "Divadlo Ungelt",
-      "city": "Praha",
-      "region": "Praha",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/svycarsko",
-      "editorial_rating": 78.0,
-      "user_rating": 86.0,
-      "cqi": 80.4,
-      "review_count": 13,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "9.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-09",
-          "time": "20:00"
-        },
-        {
-          "text": "1.9 | 19:00 | Letní scéna",
-          "date": "2026-09-01",
-          "time": "19:00"
-        },
-        {
-          "text": "2.9 | 19:00 | Letní scéna",
-          "date": "2026-09-02",
-          "time": "19:00"
-        },
-        {
-          "text": "3.9 | 19:00 | Letní scéna | Zadáno; Vyprodáno",
-          "date": "2026-09-03",
-          "time": "19:00"
-        },
-        {
-          "text": "7.10 | 19:00 | Vyprodáno",
-          "date": "2026-10-07",
-          "time": "19:00"
-        },
-        {
-          "text": "29.10 | 19:00 | Vyprodáno",
-          "date": "2026-10-29",
-          "time": "19:00"
-        },
-        {
-          "text": "12.11 | 19:00 | Vyprodáno",
-          "date": "2026-11-12",
-          "time": "19:00"
-        },
-        {
-          "text": "25.11 | 19:00 | Vyprodáno",
-          "date": "2026-11-25",
-          "time": "19:00"
-        },
-        {
-          "text": "4.12 | 19:00 | Vyprodáno",
-          "date": "2026-12-04",
-          "time": "19:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:21:22.174677"
+      "scraped_at": "2026-08-16T06:21:53.797911"
     },
     {
       "title": "Politika správcovny",
@@ -2800,7 +2819,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:48.229389"
+      "scraped_at": "2026-08-16T05:24:49.197313"
     },
     {
       "title": "Všechny báječný věci",
@@ -2836,7 +2855,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:23:13.141496"
+      "scraped_at": "2026-08-16T05:37:48.033157"
     },
     {
       "title": "Játra",
@@ -2860,9 +2879,40 @@
           "text": "26.9 | 20:00",
           "date": "2026-09-26",
           "time": "20:00"
+        },
+        {
+          "text": "17.10 | 20:00",
+          "date": "2026-10-17",
+          "time": "20:00"
+        },
+        {
+          "text": "21.10 | 20:00",
+          "date": "2026-10-21",
+          "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:46:03.109637"
+      "scraped_at": "2026-08-16T05:01:27.073618"
+    },
+    {
+      "title": "Zítra to spustíme aneb Kdo je tady gentleman",
+      "theater_name": "Dejvické divadlo",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/dejvicke-divadlo/zitra-to-spustime-aneb-kdo-je-tady-gentleman",
+      "editorial_rating": 80.0,
+      "user_rating": 80.0,
+      "cqi": 80.0,
+      "review_count": 13,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "6.10 | 19:30",
+          "date": "2026-10-06",
+          "time": "19:30"
+        }
+      ],
+      "scraped_at": "2026-08-16T05:02:18.375911"
     },
     {
       "title": "Leoš Janáček – Černý anděl, bílý čert",
@@ -2898,7 +2948,7 @@
           "time": "11:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:24:35.487078"
+      "scraped_at": "2026-08-16T05:39:13.388613"
     },
     {
       "title": "Třináctá láska",
@@ -2944,7 +2994,7 @@
           "time": "11:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:24:47.037061"
+      "scraped_at": "2026-08-16T05:39:27.783637"
     },
     {
       "title": "Hra, která se zvrtla",
@@ -2975,7 +3025,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:39:55.883182"
+      "scraped_at": "2026-08-16T05:54:00.832604"
     },
     {
       "title": "Babylon balet",
@@ -3031,7 +3081,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:51:55.567966"
+      "scraped_at": "2026-08-16T06:05:48.253491"
     },
     {
       "title": "Povídání o pejskovi a kočičce",
@@ -3072,7 +3122,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:59:20.664998"
+      "scraped_at": "2026-08-16T06:12:49.004912"
     },
     {
       "title": "O zlaté rybce",
@@ -3093,7 +3143,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:01:15.836864"
+      "scraped_at": "2026-08-16T06:14:33.290555"
     },
     {
       "title": "Posviťme si na světlo",
@@ -3119,7 +3169,7 @@
           "time": "16:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:01:45.899273"
+      "scraped_at": "2026-08-16T06:15:02.435589"
     },
     {
       "title": "Každý má svou pravdu",
@@ -3138,9 +3188,24 @@
           "text": "18.9 | 19:30 | vyprodáno",
           "date": "2026-09-18",
           "time": "19:30"
+        },
+        {
+          "text": "7.10 | 19:00 | hrajeme v Brně / Divadlo Bolka Polívky / zadáno",
+          "date": "2026-10-07",
+          "time": "19:00"
+        },
+        {
+          "text": "8.10 | 19:30 | zadáno",
+          "date": "2026-10-08",
+          "time": "19:30"
+        },
+        {
+          "text": "14.10 | 19:00 | hrajeme v Písku / Divadlo Fráni Šrámka",
+          "date": "2026-10-14",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:46:09.362378"
+      "scraped_at": "2026-08-16T05:01:34.755111"
     },
     {
       "title": "Můj boj. Zamilovaný muž",
@@ -3176,7 +3241,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:54:27.516105"
+      "scraped_at": "2026-08-16T05:09:29.200971"
     },
     {
       "title": "Drama v kostce, pokus 2 - Mystérium skutečnosti",
@@ -3197,7 +3262,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:12:38.112797"
+      "scraped_at": "2026-08-16T05:27:29.860988"
     },
     {
       "title": "Pan Polštář",
@@ -3223,7 +3288,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:06:07.406084"
+      "scraped_at": "2026-08-16T05:20:57.839935"
     },
     {
       "title": "Amatéři",
@@ -3234,7 +3299,7 @@
       "editorial_rating": 78.0,
       "user_rating": 84.0,
       "cqi": 79.8,
-      "review_count": 53,
+      "review_count": 54,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -3329,7 +3394,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:27:06.370136"
+      "scraped_at": "2026-08-16T05:41:56.785552"
     },
     {
       "title": "Jesus Christ Superstar",
@@ -3375,7 +3440,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:50:06.574011"
+      "scraped_at": "2026-08-16T06:03:51.109623"
     },
     {
       "title": "Plíce",
@@ -3416,7 +3481,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:44.725253"
+      "scraped_at": "2026-08-16T05:24:45.362437"
     },
     {
       "title": "Čarodějky z Eastwicku",
@@ -3457,7 +3522,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:38:23.776871"
+      "scraped_at": "2026-08-16T05:52:33.538607"
     },
     {
       "title": "Klec bláznů",
@@ -3498,7 +3563,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:50:16.354458"
+      "scraped_at": "2026-08-16T05:05:38.824274"
     },
     {
       "title": "Radostný výlet",
@@ -3534,7 +3599,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:51:53.410860"
+      "scraped_at": "2026-08-16T05:07:10.345815"
     },
     {
       "title": "294 statečných",
@@ -3560,7 +3625,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:58:44.375622"
+      "scraped_at": "2026-08-16T05:13:37.215423"
     },
     {
       "title": "Vyhnání Gerty Schnirch",
@@ -3586,7 +3651,7 @@
           "time": "17:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:46:45.375671"
+      "scraped_at": "2026-08-16T06:00:26.974887"
     },
     {
       "title": "Žena filmového kritika",
@@ -3617,7 +3682,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:00:17.915223"
+      "scraped_at": "2026-08-16T05:15:17.875936"
     },
     {
       "title": "Iluze",
@@ -3643,7 +3708,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:08:46.097275"
+      "scraped_at": "2026-08-16T05:23:32.861731"
     },
     {
       "title": "Otec v šestinedělí",
@@ -3687,9 +3752,39 @@
           "text": "15.12 | 19:00 | NOMINACE THALIE; Hudební komedie; one-man show",
           "date": "2026-12-15",
           "time": "19:00"
+        },
+        {
+          "text": "12.1 | 19:00 | Hudební komedie; one-man show",
+          "date": "2027-01-12",
+          "time": "19:00"
+        },
+        {
+          "text": "2.2 | 19:00 | Hudební komedie; one-man show",
+          "date": "2027-02-02",
+          "time": "19:00"
+        },
+        {
+          "text": "28.2 | 19:00 | Hudební komedie; one-man show",
+          "date": "2027-02-28",
+          "time": "19:00"
+        },
+        {
+          "text": "16.3 | 19:00 | Hudební komedie; one-man show",
+          "date": "2027-03-16",
+          "time": "19:00"
+        },
+        {
+          "text": "1.4 | 19:00 | Hudební komedie; one-man show",
+          "date": "2027-04-01",
+          "time": "19:00"
+        },
+        {
+          "text": "18.4 | 19:00 | Hudební komedie; one-man show",
+          "date": "2027-04-18",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:26:03.893633"
+      "scraped_at": "2026-08-16T05:40:50.659296"
     },
     {
       "title": "changes",
@@ -3725,7 +3820,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:11.709855"
+      "scraped_at": "2026-08-16T05:47:43.088423"
     },
     {
       "title": "Faidra (Zatmění)",
@@ -3756,7 +3851,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:18.524025"
+      "scraped_at": "2026-08-16T05:47:51.959159"
     },
     {
       "title": "Déšť",
@@ -3787,7 +3882,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:34:25.868915"
+      "scraped_at": "2026-08-16T05:48:39.460333"
     },
     {
       "title": "Rebelky",
@@ -3813,7 +3908,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:44:55.391743"
+      "scraped_at": "2026-08-16T05:58:40.393376"
     },
     {
       "title": "Hon",
@@ -3849,7 +3944,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:54:14.615086"
+      "scraped_at": "2026-08-16T05:09:18.434361"
     },
     {
       "title": "Ocelové magnolie",
@@ -3895,7 +3990,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:37:58.846109"
+      "scraped_at": "2026-08-16T05:52:10.834662"
     },
     {
       "title": "Vykouření",
@@ -3916,7 +4011,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:42:56.125196"
+      "scraped_at": "2026-08-16T05:56:44.330596"
     },
     {
       "title": "Líp se loučí v neděli (Tell Me on a Sunday)",
@@ -3957,7 +4052,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:52:15.282483"
+      "scraped_at": "2026-08-16T06:06:05.510259"
     },
     {
       "title": "Holky a kluci",
@@ -3973,12 +4068,17 @@
       "rating_confidence": "full",
       "dates": [
         {
+          "text": "18.9 | 19:30",
+          "date": "2026-09-18",
+          "time": "19:30"
+        },
+        {
           "text": "20.11 | 19:30",
           "date": "2026-11-20",
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T07:19:08.528183"
+      "scraped_at": "2026-08-16T06:32:24.639712"
     },
     {
       "title": "Rande s feministou",
@@ -4034,7 +4134,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:42.579264"
+      "scraped_at": "2026-08-16T05:37:16.007580"
     },
     {
       "title": "RED",
@@ -4060,7 +4160,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:03:24.095757"
+      "scraped_at": "2026-08-16T05:18:22.374429"
     },
     {
       "title": "Prezidentky",
@@ -4086,7 +4186,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:47.115860"
+      "scraped_at": "2026-08-16T05:59:29.500092"
     },
     {
       "title": "Strýček Váňa",
@@ -4107,7 +4207,63 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:52.772998"
+      "scraped_at": "2026-08-16T05:59:34.550836"
+    },
+    {
+      "title": "Švýcarsko",
+      "theater_name": "Divadlo Ungelt",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/svycarsko",
+      "editorial_rating": 76.0,
+      "user_rating": 83.0,
+      "cqi": 78.1,
+      "review_count": 15,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "1.9 | 19:00 | Letní scéna | Vyprodáno",
+          "date": "2026-09-01",
+          "time": "19:00"
+        },
+        {
+          "text": "2.9 | 19:00 | Letní scéna",
+          "date": "2026-09-02",
+          "time": "19:00"
+        },
+        {
+          "text": "3.9 | 19:00 | Letní scéna | Zadáno; Vyprodáno",
+          "date": "2026-09-03",
+          "time": "19:00"
+        },
+        {
+          "text": "7.10 | 19:00 | Vyprodáno",
+          "date": "2026-10-07",
+          "time": "19:00"
+        },
+        {
+          "text": "29.10 | 19:00 | Vyprodáno",
+          "date": "2026-10-29",
+          "time": "19:00"
+        },
+        {
+          "text": "12.11 | 19:00 | Vyprodáno",
+          "date": "2026-11-12",
+          "time": "19:00"
+        },
+        {
+          "text": "25.11 | 19:00 | Vyprodáno",
+          "date": "2026-11-25",
+          "time": "19:00"
+        },
+        {
+          "text": "4.12 | 19:00 | Vyprodáno",
+          "date": "2026-12-04",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T05:37:37.644753"
     },
     {
       "title": "Já, secese",
@@ -4148,7 +4304,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:25:58.723796"
+      "scraped_at": "2026-08-16T05:40:44.600090"
     },
     {
       "title": "Holky jako květ",
@@ -4194,7 +4350,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:27:49.644767"
+      "scraped_at": "2026-08-16T05:42:36.891399"
     },
     {
       "title": "Šest tanečních hodin v šesti týdnech",
@@ -4215,7 +4371,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:11.367781"
+      "scraped_at": "2026-08-16T05:58:54.503298"
     },
     {
       "title": "Ztratili jsme Stalina",
@@ -4241,7 +4397,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:20.024577"
+      "scraped_at": "2026-08-16T05:59:04.018587"
     },
     {
       "title": "Velryba",
@@ -4282,7 +4438,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:51:44.821667"
+      "scraped_at": "2026-08-16T06:05:38.731676"
     },
     {
       "title": "O líné babičce",
@@ -4328,7 +4484,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:52:18.511059"
+      "scraped_at": "2026-08-16T06:06:10.732693"
     },
     {
       "title": "Jméno",
@@ -4349,7 +4505,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:18:11.522694"
+      "scraped_at": "2026-08-16T06:31:23.486226"
     },
     {
       "title": "Vina?",
@@ -4373,9 +4529,14 @@
           "text": "27.8 | 20:00 | hrajeme v Řevnicích | vyprodáno",
           "date": "2026-08-27",
           "time": "20:00"
+        },
+        {
+          "text": "15.10 | 19:30",
+          "date": "2026-10-15",
+          "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:16.945258"
+      "scraped_at": "2026-08-16T05:00:36.559164"
     },
     {
       "title": "Zničit",
@@ -4401,7 +4562,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:07:13.224282"
+      "scraped_at": "2026-08-16T05:21:59.090271"
     },
     {
       "title": "Mešita",
@@ -4432,7 +4593,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:47.946144"
+      "scraped_at": "2026-08-16T05:48:16.928721"
     },
     {
       "title": "K.Š.E.F.T.",
@@ -4463,38 +4624,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:52:40.292511"
-    },
-    {
-      "title": "Můj malý vůdce",
-      "theater_name": "Městská divadla pražská",
-      "city": "Praha",
-      "region": "Praha",
-      "source_url": "https://www.i-divadlo.cz/divadlo/mestska-divadla-prazska/muj-maly-vudce",
-      "editorial_rating": 80.0,
-      "user_rating": 71.0,
-      "cqi": 77.3,
-      "review_count": 11,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "25.9 | 19:00",
-          "date": "2026-09-25",
-          "time": "19:00"
-        },
-        {
-          "text": "1.10 | 19:00 | + LEKTORSKÝ ÚVOD",
-          "date": "2026-10-01",
-          "time": "19:00"
-        },
-        {
-          "text": "15.10 | 19:00",
-          "date": "2026-10-15",
-          "time": "19:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:05:45.746282"
+      "scraped_at": "2026-08-16T05:07:51.133139"
     },
     {
       "title": "Časokryt",
@@ -4530,73 +4660,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:54:08.409700"
-    },
-    {
-      "title": "Jak starý je Měsíc",
-      "theater_name": "Divadlo Ungelt",
-      "city": "Praha",
-      "region": "Praha",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/jak-stary-je-mesic",
-      "editorial_rating": 75.0,
-      "user_rating": 82.0,
-      "cqi": 77.1,
-      "review_count": 6,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "10.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-10",
-          "time": "20:00"
-        },
-        {
-          "text": "11.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-11",
-          "time": "20:00"
-        },
-        {
-          "text": "13.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-13",
-          "time": "20:00"
-        },
-        {
-          "text": "14.8 | 20:00 | Letní scéna | Vyprodáno",
-          "date": "2026-08-14",
-          "time": "20:00"
-        },
-        {
-          "text": "30.10 | 19:00 | Vyprodáno",
-          "date": "2026-10-30",
-          "time": "19:00"
-        },
-        {
-          "text": "31.10 | 19:00 | Vyprodáno",
-          "date": "2026-10-31",
-          "time": "19:00"
-        },
-        {
-          "text": "21.11 | 19:00 | Předplatné DU-1, lze zakoupit pouze jako součást předplatného; Vyprodáno",
-          "date": "2026-11-21",
-          "time": "19:00"
-        },
-        {
-          "text": "29.11 | 19:00 | Vyprodáno",
-          "date": "2026-11-29",
-          "time": "19:00"
-        },
-        {
-          "text": "13.12 | 19:00 | Zadáno; Vyprodáno",
-          "date": "2026-12-13",
-          "time": "19:00"
-        },
-        {
-          "text": "14.12 | 19:00 | Divadlo ABC | Vyprodáno",
-          "date": "2026-12-14",
-          "time": "19:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:21:25.470598"
+      "scraped_at": "2026-08-16T05:09:12.202820"
     },
     {
       "title": "Koza aneb Kdo je Sylvie?",
@@ -4622,7 +4686,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:57:39.840556"
+      "scraped_at": "2026-08-16T05:12:35.505124"
     },
     {
       "title": "Lhář",
@@ -4663,7 +4727,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:20.913361"
+      "scraped_at": "2026-08-16T05:46:54.307006"
     },
     {
       "title": "Dracula",
@@ -4714,7 +4778,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:57:22.279837"
+      "scraped_at": "2026-08-16T06:10:58.507685"
     },
     {
       "title": "RAPsodie",
@@ -4745,7 +4809,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:20:41.083557"
+      "scraped_at": "2026-08-16T06:33:54.896245"
     },
     {
       "title": "Mýcení",
@@ -4776,7 +4840,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:55:08.863126"
+      "scraped_at": "2026-08-16T05:10:12.140258"
     },
     {
       "title": "Malý princ",
@@ -4832,7 +4896,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:28:29.972427"
+      "scraped_at": "2026-08-16T05:43:12.908366"
     },
     {
       "title": "Hana",
@@ -4863,7 +4927,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:12.651657"
+      "scraped_at": "2026-08-16T05:46:44.200691"
     },
     {
       "title": "Company (Přátelé)",
@@ -4894,7 +4958,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:55:34.033409"
+      "scraped_at": "2026-08-16T06:09:18.678819"
     },
     {
       "title": "Harold a Maude",
@@ -4910,12 +4974,12 @@
       "rating_confidence": "full",
       "dates": [
         {
-          "text": "9.9 | 19:00 | VYPRODÁNO",
+          "text": "9.9 | 19:00",
           "date": "2026-09-09",
           "time": "19:00"
         },
         {
-          "text": "24.9 | 19:00 | VYPRODÁNO",
+          "text": "24.9 | 19:00",
           "date": "2026-09-24",
           "time": "19:00"
         },
@@ -5000,7 +5064,7 @@
           "time": "14:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:27:43.718328"
+      "scraped_at": "2026-08-16T05:42:32.933268"
     },
     {
       "title": "Žáby",
@@ -5041,7 +5105,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:30:57.709989"
+      "scraped_at": "2026-08-16T05:45:36.586489"
     },
     {
       "title": "2:22 - duchařský příběh",
@@ -5072,7 +5136,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:52:00.500099"
+      "scraped_at": "2026-08-16T05:07:18.256033"
     },
     {
       "title": "Bezruký Frantík",
@@ -5093,7 +5157,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:58:50.565419"
+      "scraped_at": "2026-08-16T05:13:43.641113"
     },
     {
       "title": "Pan Halpern a pan Johnson",
@@ -5124,7 +5188,7 @@
           "time": "19:00"
         },
         {
-          "text": "13.11 | 19:00",
+          "text": "13.11 | 19:00 | Vyprodáno",
           "date": "2026-11-13",
           "time": "19:00"
         },
@@ -5144,7 +5208,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:26.747384"
+      "scraped_at": "2026-08-16T05:36:59.843137"
     },
     {
       "title": "In Our Hands",
@@ -5180,7 +5244,7 @@
           "time": "14:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:41:20.394419"
+      "scraped_at": "2026-08-16T04:56:38.703152"
     },
     {
       "title": "Sen čarovné noci",
@@ -5221,7 +5285,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:41.557732"
+      "scraped_at": "2026-08-16T05:47:18.806223"
     },
     {
       "title": "Až na ten konec dobrý",
@@ -5262,7 +5326,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:38:03.728960"
+      "scraped_at": "2026-08-16T05:52:16.111749"
     },
     {
       "title": "Drákula",
@@ -5298,7 +5362,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:39:46.215655"
+      "scraped_at": "2026-08-16T05:53:53.097103"
     },
     {
       "title": "Normální detektivní komedie",
@@ -5324,28 +5388,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:42:38.680871"
-    },
-    {
-      "title": "Podivné odpoledne Dr. Zvonka Burkeho",
-      "theater_name": "Divadlo Bolka Polívky",
-      "city": "Brno",
-      "region": "Jihomoravský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-bolka-polivky/podivne-odpoledne-dr-zvonka-burkeho",
-      "editorial_rating": null,
-      "user_rating": 76.0,
-      "cqi": 76.0,
-      "review_count": 19,
-      "is_critic_verified": false,
-      "rating_confidence": "user_only",
-      "dates": [
-        {
-          "text": "11.8 | 20:00 | Letní scéna DBP",
-          "date": "2026-08-11",
-          "time": "20:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:43:40.328773"
+      "scraped_at": "2026-08-16T05:56:31.391438"
     },
     {
       "title": "Pan Biedermann a žháři",
@@ -5381,7 +5424,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:55.839259"
+      "scraped_at": "2026-08-16T05:59:38.782187"
     },
     {
       "title": "Figarova svatba aneb Bláznivý den",
@@ -5407,7 +5450,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:56:06.798604"
+      "scraped_at": "2026-08-16T06:09:47.396132"
     },
     {
       "title": "Vtip",
@@ -5433,7 +5476,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:59:38.986834"
+      "scraped_at": "2026-08-16T06:13:07.886684"
     },
     {
       "title": "Požitkáři",
@@ -5459,7 +5502,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:55:33.861630"
+      "scraped_at": "2026-08-16T05:10:34.554187"
     },
     {
       "title": "Divoká kachna",
@@ -5495,7 +5538,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:31:53.286645"
+      "scraped_at": "2026-08-16T05:46:26.885866"
     },
     {
       "title": "Jak sbalit ženu 2.0",
@@ -5516,7 +5559,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:59:50.936813"
+      "scraped_at": "2026-08-16T05:14:53.816737"
     },
     {
       "title": "Deštivé dny",
@@ -5527,7 +5570,7 @@
       "editorial_rating": 71.0,
       "user_rating": 86.0,
       "cqi": 75.5,
-      "review_count": 188,
+      "review_count": 189,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -5562,7 +5605,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:04.595526"
+      "scraped_at": "2026-08-16T05:35:58.631736"
     },
     {
       "title": "Bůh masakru",
@@ -5583,7 +5626,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:52:09.284742"
+      "scraped_at": "2026-08-16T05:07:26.836888"
     },
     {
       "title": "Monty Python’s Spamalot",
@@ -5619,7 +5662,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:38:55.443061"
+      "scraped_at": "2026-08-16T05:53:01.859734"
     },
     {
       "title": "Mamma Mia!",
@@ -5725,7 +5768,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:50:22.115243"
+      "scraped_at": "2026-08-16T06:04:07.294504"
     },
     {
       "title": "Žítkovské bohyně",
@@ -5751,7 +5794,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:58:31.990203"
+      "scraped_at": "2026-08-16T05:13:25.053457"
     },
     {
       "title": "Oscar pro Emily",
@@ -5832,7 +5875,7 @@
           "time": "14:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:30:03.998304"
+      "scraped_at": "2026-08-16T05:44:36.222899"
     },
     {
       "title": "Čertova stěna",
@@ -5868,7 +5911,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:34:59.248506"
+      "scraped_at": "2026-08-16T05:49:15.050723"
     },
     {
       "title": "Trubadúr",
@@ -5894,7 +5937,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:57:12.214123"
+      "scraped_at": "2026-08-16T06:10:47.901881"
     },
     {
       "title": "Hra, která se zvrtla",
@@ -5918,9 +5961,40 @@
           "text": "29.9 | 09:30 | zadáno",
           "date": "2026-09-29",
           "time": "09:30"
+        },
+        {
+          "text": "9.10 | 10:00 | školní představení",
+          "date": "2026-10-09",
+          "time": "10:00"
+        },
+        {
+          "text": "29.10 | 19:00",
+          "date": "2026-10-29",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:23:24.837746"
+      "scraped_at": "2026-08-16T06:36:05.999464"
+    },
+    {
+      "title": "Tiše buší Ploština",
+      "theater_name": "Městské divadlo Zlín",
+      "city": "Zlín",
+      "region": "Zlínský kraj",
+      "source_url": "https://www.i-divadlo.cz/divadlo/mestske-divadlo-zlin/tise-busi-plostina",
+      "editorial_rating": null,
+      "user_rating": 75.0,
+      "cqi": 75.0,
+      "review_count": 6,
+      "is_critic_verified": false,
+      "rating_confidence": "user_only",
+      "dates": [
+        {
+          "text": "30.10 | 17:00 | beseda s herci",
+          "date": "2026-10-30",
+          "time": "17:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T06:36:22.229751"
     },
     {
       "title": "Už je tady zas!",
@@ -5946,7 +6020,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:02:36.069889"
+      "scraped_at": "2026-08-16T05:17:27.799540"
     },
     {
       "title": "Cyrano",
@@ -5977,7 +6051,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:08:32.540378"
+      "scraped_at": "2026-08-16T06:22:14.163887"
     },
     {
       "title": "Brácha",
@@ -5998,7 +6072,7 @@
           "time": "19:00"
         },
         {
-          "text": "20.11 | 19:00 | Vyprodáno",
+          "text": "20.11 | 19:00",
           "date": "2026-11-20",
           "time": "19:00"
         },
@@ -6008,7 +6082,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:21:45.355691"
+      "scraped_at": "2026-08-16T05:36:16.472908"
     },
     {
       "title": "Paní Dallowayová",
@@ -6039,7 +6113,53 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:55:19.784305"
+      "scraped_at": "2026-08-16T05:10:21.928670"
+    },
+    {
+      "title": "Jak starý je Měsíc",
+      "theater_name": "Divadlo Ungelt",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/jak-stary-je-mesic",
+      "editorial_rating": 73.0,
+      "user_rating": 78.0,
+      "cqi": 74.5,
+      "review_count": 11,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "30.10 | 19:00 | Vyprodáno",
+          "date": "2026-10-30",
+          "time": "19:00"
+        },
+        {
+          "text": "31.10 | 19:00 | Vyprodáno",
+          "date": "2026-10-31",
+          "time": "19:00"
+        },
+        {
+          "text": "21.11 | 19:00 | Předplatné DU-1, lze zakoupit pouze jako součást předplatného; Vyprodáno",
+          "date": "2026-11-21",
+          "time": "19:00"
+        },
+        {
+          "text": "29.11 | 19:00 | Vyprodáno",
+          "date": "2026-11-29",
+          "time": "19:00"
+        },
+        {
+          "text": "13.12 | 19:00 | Zadáno; Vyprodáno",
+          "date": "2026-12-13",
+          "time": "19:00"
+        },
+        {
+          "text": "14.12 | 19:00 | Divadlo ABC | Vyprodáno",
+          "date": "2026-12-14",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T05:36:42.461354"
     },
     {
       "title": "Smiley",
@@ -6125,7 +6245,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:30:21.735827"
+      "scraped_at": "2026-08-16T05:44:56.447731"
     },
     {
       "title": "Obejmout vlny",
@@ -6156,7 +6276,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:59:05.124402"
+      "scraped_at": "2026-08-16T06:12:35.506445"
     },
     {
       "title": "Paní Bovaryová",
@@ -6212,7 +6332,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:37:47.969832"
+      "scraped_at": "2026-08-16T04:53:22.719170"
     },
     {
       "title": "Lazarus",
@@ -6238,7 +6358,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:06:43.205039"
+      "scraped_at": "2026-08-16T05:21:29.538734"
     },
     {
       "title": "Snímek 51",
@@ -6264,7 +6384,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:10:30.831790"
+      "scraped_at": "2026-08-16T05:25:30.651759"
     },
     {
       "title": "Pravda",
@@ -6300,7 +6420,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:52:31.197661"
+      "scraped_at": "2026-08-16T06:06:22.748429"
     },
     {
       "title": "Dogville",
@@ -6326,7 +6446,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:56:02.833288"
+      "scraped_at": "2026-08-16T06:09:43.502173"
     },
     {
       "title": "Zakleté dámy",
@@ -6357,7 +6477,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:53:43.905909"
+      "scraped_at": "2026-08-16T05:08:49.150137"
     },
     {
       "title": "Zázrak (s)tvoření",
@@ -6398,7 +6518,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:42:01.802626"
+      "scraped_at": "2026-08-16T04:57:21.229192"
     },
     {
       "title": "Obludov",
@@ -6414,12 +6534,12 @@
       "rating_confidence": "user_only",
       "dates": [
         {
-          "text": "31.8 | 20:00 | hrajeme v Kulturním centru Klubovna, Praha 6 | vstupenky zde",
+          "text": "31.8 | 20:00 | hrajeme v Kulturním centru Klubovna, Praha 6 | vyprodáno",
           "date": "2026-08-31",
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:26.967759"
+      "scraped_at": "2026-08-16T05:00:50.014885"
     },
     {
       "title": "Cabaret",
@@ -6470,7 +6590,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:57:18.013312"
+      "scraped_at": "2026-08-16T05:12:14.130032"
     },
     {
       "title": "Muž mojí ženy",
@@ -6586,7 +6706,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:00:56.176931"
+      "scraped_at": "2026-08-16T05:15:53.240534"
     },
     {
       "title": "Geniální přítelkyně",
@@ -6607,7 +6727,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:04:18.108744"
+      "scraped_at": "2026-08-16T05:19:24.151820"
     },
     {
       "title": "V Y Prodaná nevěsta",
@@ -6633,7 +6753,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:12:15.417690"
+      "scraped_at": "2026-08-16T05:27:10.448422"
     },
     {
       "title": "Držím ti miesto",
@@ -6669,7 +6789,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:41:54.369394"
+      "scraped_at": "2026-08-16T05:55:53.760309"
     },
     {
       "title": "Z pohlavního života našeho lidu",
@@ -6690,7 +6810,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:43:14.106126"
+      "scraped_at": "2026-08-16T05:57:08.031147"
     },
     {
       "title": "Jakub a jeho pán",
@@ -6711,7 +6831,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:56:15.871917"
+      "scraped_at": "2026-08-16T06:09:56.396001"
     },
     {
       "title": "Tanec v rodném domě",
@@ -6732,7 +6852,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:13:39.848512"
+      "scraped_at": "2026-08-16T06:26:52.019885"
     },
     {
       "title": "Sen o říši krásy",
@@ -6763,125 +6883,12 @@
           "time": "20:00"
         },
         {
-          "text": "26.9 | 21:30 | Zámecká jízdárna Český Krumlov / Jihočeské divadlo",
+          "text": "26.9 | 20:00 | Zámecká jízdárna Český Krumlov / Jihočeské divadlo",
           "date": "2026-09-26",
-          "time": "21:30"
+          "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:21:07.344916"
-    },
-    {
-      "title": "Six",
-      "theater_name": "Divadlo J. K. Tyla",
-      "city": "Plzeň",
-      "region": "Plzeňský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-jktyla/six",
-      "editorial_rating": 73.0,
-      "user_rating": 76.0,
-      "cqi": 73.9,
-      "review_count": 65,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "30.9 | 19:00 | KMD",
-          "date": "2026-09-30",
-          "time": "19:00"
-        },
-        {
-          "text": "31.10 | 19:00",
-          "date": "2026-10-31",
-          "time": "19:00"
-        },
-        {
-          "text": "28.11 | 14:00 | Divadlo Hybernia",
-          "date": "2026-11-28",
-          "time": "14:00"
-        },
-        {
-          "text": "28.11 | 18:00 | Divadlo Hybernia",
-          "date": "2026-11-28",
-          "time": "18:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:56:58.813416"
-    },
-    {
-      "title": "Jesus Christ Superstar",
-      "theater_name": "Divadlo J. K. Tyla",
-      "city": "Plzeň",
-      "region": "Plzeňský kraj",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-jktyla/jesus-christ-superstar",
-      "editorial_rating": 78.0,
-      "user_rating": 64.0,
-      "cqi": 73.8,
-      "review_count": 60,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "14.10 | 19:00",
-          "date": "2026-10-14",
-          "time": "19:00"
-        },
-        {
-          "text": "15.10 | 11:00 | Zadáno",
-          "date": "2026-10-15",
-          "time": "11:00"
-        },
-        {
-          "text": "16.10 | 19:00",
-          "date": "2026-10-16",
-          "time": "19:00"
-        },
-        {
-          "text": "17.10 | 14:00",
-          "date": "2026-10-17",
-          "time": "14:00"
-        },
-        {
-          "text": "17.10 | 19:00",
-          "date": "2026-10-17",
-          "time": "19:00"
-        },
-        {
-          "text": "18.10 | 14:00",
-          "date": "2026-10-18",
-          "time": "14:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:57:27.639639"
-    },
-    {
-      "title": "Pstruzi",
-      "theater_name": "Divadlo Ungelt",
-      "city": "Praha",
-      "region": "Praha",
-      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/pstruzi",
-      "editorial_rating": 73.0,
-      "user_rating": 75.0,
-      "cqi": 73.6,
-      "review_count": 41,
-      "is_critic_verified": true,
-      "rating_confidence": "full",
-      "dates": [
-        {
-          "text": "4.11 | 19:00 | Předplatné DU-2, lze zakoupit pouze jako součást předplatného",
-          "date": "2026-11-04",
-          "time": "19:00"
-        },
-        {
-          "text": "11.11 | 19:00",
-          "date": "2026-11-11",
-          "time": "19:00"
-        },
-        {
-          "text": "11.12 | 19:00 | Vyprodáno",
-          "date": "2026-12-11",
-          "time": "19:00"
-        }
-      ],
-      "scraped_at": "2026-08-09T06:22:36.616303"
+      "scraped_at": "2026-08-16T06:34:20.811209"
     },
     {
       "title": "Vánoce s Popelkou",
@@ -6890,17 +6897,12 @@
       "region": "Praha",
       "source_url": "https://www.i-divadlo.cz/divadlo/studio-dva/vanoce-s-popelkou",
       "editorial_rating": 70.0,
-      "user_rating": 82.0,
-      "cqi": 73.6,
-      "review_count": 23,
+      "user_rating": 83.0,
+      "cqi": 73.9,
+      "review_count": 24,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
-        {
-          "text": "9.8 | 20:00 | Letní scéna Vyšehrad",
-          "date": "2026-08-09",
-          "time": "20:00"
-        },
         {
           "text": "19.8 | 20:00 | Letní scéna Vyšehrad",
           "date": "2026-08-19",
@@ -7002,7 +7004,130 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:26:49.080018"
+      "scraped_at": "2026-08-16T05:41:45.579302"
+    },
+    {
+      "title": "Six",
+      "theater_name": "Divadlo J. K. Tyla",
+      "city": "Plzeň",
+      "region": "Plzeňský kraj",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-jktyla/six",
+      "editorial_rating": 73.0,
+      "user_rating": 76.0,
+      "cqi": 73.9,
+      "review_count": 65,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "30.9 | 19:00 | KMD",
+          "date": "2026-09-30",
+          "time": "19:00"
+        },
+        {
+          "text": "31.10 | 19:00",
+          "date": "2026-10-31",
+          "time": "19:00"
+        },
+        {
+          "text": "28.11 | 14:00 | Divadlo Hybernia",
+          "date": "2026-11-28",
+          "time": "14:00"
+        },
+        {
+          "text": "28.11 | 18:00 | Divadlo Hybernia",
+          "date": "2026-11-28",
+          "time": "18:00"
+        },
+        {
+          "text": "6.2 | 14:00 | Divadlo Hybernia",
+          "date": "2027-02-06",
+          "time": "14:00"
+        },
+        {
+          "text": "6.2 | 18:00 | Divadlo Hybernia",
+          "date": "2027-02-06",
+          "time": "18:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T06:10:36.216598"
+    },
+    {
+      "title": "Jesus Christ Superstar",
+      "theater_name": "Divadlo J. K. Tyla",
+      "city": "Plzeň",
+      "region": "Plzeňský kraj",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-jktyla/jesus-christ-superstar",
+      "editorial_rating": 78.0,
+      "user_rating": 64.0,
+      "cqi": 73.8,
+      "review_count": 60,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "14.10 | 19:00",
+          "date": "2026-10-14",
+          "time": "19:00"
+        },
+        {
+          "text": "15.10 | 11:00 | Zadáno",
+          "date": "2026-10-15",
+          "time": "11:00"
+        },
+        {
+          "text": "16.10 | 19:00",
+          "date": "2026-10-16",
+          "time": "19:00"
+        },
+        {
+          "text": "17.10 | 14:00",
+          "date": "2026-10-17",
+          "time": "14:00"
+        },
+        {
+          "text": "17.10 | 19:00",
+          "date": "2026-10-17",
+          "time": "19:00"
+        },
+        {
+          "text": "18.10 | 14:00",
+          "date": "2026-10-18",
+          "time": "14:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T06:11:05.418316"
+    },
+    {
+      "title": "Pstruzi",
+      "theater_name": "Divadlo Ungelt",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/divadlo-ungelt/pstruzi",
+      "editorial_rating": 73.0,
+      "user_rating": 75.0,
+      "cqi": 73.6,
+      "review_count": 42,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "4.11 | 19:00 | Předplatné DU-2, lze zakoupit pouze jako součást předplatného",
+          "date": "2026-11-04",
+          "time": "19:00"
+        },
+        {
+          "text": "11.11 | 19:00",
+          "date": "2026-11-11",
+          "time": "19:00"
+        },
+        {
+          "text": "11.12 | 19:00 | Vyprodáno",
+          "date": "2026-12-11",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T05:37:10.577096"
     },
     {
       "title": "Chicago",
@@ -7043,7 +7168,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:49:45.969499"
+      "scraped_at": "2026-08-16T06:03:28.458254"
     },
     {
       "title": "A pak usnu a vstanu",
@@ -7064,7 +7189,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:08:44.292821"
+      "scraped_at": "2026-08-16T06:22:23.724557"
     },
     {
       "title": "Šoa (Příběh Miloše Dobrého, Příběh Hany Pravdové)",
@@ -7095,7 +7220,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:50:59.335990"
+      "scraped_at": "2026-08-16T05:06:19.969032"
     },
     {
       "title": "Ošklivec",
@@ -7131,7 +7256,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:51:44.412181"
+      "scraped_at": "2026-08-16T05:06:59.986800"
     },
     {
       "title": "Kati",
@@ -7157,7 +7282,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:52:48.461367"
+      "scraped_at": "2026-08-16T05:07:59.241631"
     },
     {
       "title": "Dávno, dávno již tomu (Zpráva o pohřbívání v Čechách)",
@@ -7181,9 +7306,14 @@
           "text": "30.9 | 19:00 | zájezd",
           "date": "2026-09-30",
           "time": "19:00"
+        },
+        {
+          "text": "7.10 | 10:00 | zájezd",
+          "date": "2026-10-07",
+          "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:22:49.055590"
+      "scraped_at": "2026-08-16T06:35:28.559907"
     },
     {
       "title": "Pět let zpět",
@@ -7209,7 +7339,7 @@
           "time": "14:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:26:10.212569"
+      "scraped_at": "2026-08-16T05:40:57.335681"
     },
     {
       "title": "Bang",
@@ -7230,7 +7360,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:12:36.247910"
+      "scraped_at": "2026-08-16T06:25:58.784001"
     },
     {
       "title": "Pusťte Donnu k maturitě!",
@@ -7251,7 +7381,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:59:27.886153"
+      "scraped_at": "2026-08-16T05:14:29.705441"
     },
     {
       "title": "Mlčení bobříků",
@@ -7277,7 +7407,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:00:06.227263"
+      "scraped_at": "2026-08-16T05:15:06.941716"
     },
     {
       "title": "Rok na vsi",
@@ -7303,7 +7433,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:10:00.433978"
+      "scraped_at": "2026-08-16T05:25:00.125033"
     },
     {
       "title": "Cyrano",
@@ -7359,7 +7489,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:08:25.444003"
+      "scraped_at": "2026-08-16T05:23:07.058553"
     },
     {
       "title": "Bitva o Hernaniho",
@@ -7378,9 +7508,14 @@
           "text": "20.9 | 19:30",
           "date": "2026-09-20",
           "time": "19:30"
+        },
+        {
+          "text": "25.10 | 19:30",
+          "date": "2026-10-25",
+          "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:45:37.515260"
+      "scraped_at": "2026-08-16T05:01:00.463302"
     },
     {
       "title": "Zpráva o stavu manželství",
@@ -7411,7 +7546,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:05:30.174049"
+      "scraped_at": "2026-08-16T05:20:22.942379"
     },
     {
       "title": "Pokoušení",
@@ -7452,7 +7587,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:32:31.245533"
+      "scraped_at": "2026-08-16T05:47:04.185403"
     },
     {
       "title": "Brněnské metro",
@@ -7488,7 +7623,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:02.705562"
+      "scraped_at": "2026-08-16T05:47:34.585509"
     },
     {
       "title": "Hurvínek prodává nevěstu",
@@ -7674,7 +7809,7 @@
           "time": "00:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:23.418238"
+      "scraped_at": "2026-08-16T05:47:56.374213"
     },
     {
       "title": "Ztížená možnost soustředění",
@@ -7710,7 +7845,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:34:21.305153"
+      "scraped_at": "2026-08-16T05:48:36.132021"
     },
     {
       "title": "Lazebník sevillský",
@@ -7736,7 +7871,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:40:12.513290"
+      "scraped_at": "2026-08-16T05:54:15.020248"
     },
     {
       "title": "Krvavá svatba",
@@ -7772,7 +7907,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:50:15.629118"
+      "scraped_at": "2026-08-16T06:04:01.125458"
     },
     {
       "title": "Jednou hole, jednou na nože",
@@ -7798,7 +7933,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:58:37.095947"
+      "scraped_at": "2026-08-16T06:12:07.484437"
     },
     {
       "title": "Tulák po hvězdách",
@@ -7824,7 +7959,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T07:19:45.275073"
+      "scraped_at": "2026-08-16T06:32:59.621429"
     },
     {
       "title": "Petr Pan",
@@ -7845,7 +7980,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:05:14.540827"
+      "scraped_at": "2026-08-16T05:20:06.503360"
     },
     {
       "title": "Hadry, kosti, kůže",
@@ -7886,7 +8021,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:50:44.694722"
+      "scraped_at": "2026-08-16T05:06:06.864604"
     },
     {
       "title": "Máma",
@@ -7912,7 +8047,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:59:56.775917"
+      "scraped_at": "2026-08-16T05:14:58.781991"
     },
     {
       "title": "DONAHA!",
@@ -7988,7 +8123,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:01:29.423522"
+      "scraped_at": "2026-08-16T05:16:22.089179"
     },
     {
       "title": "Ztížená možnost soustředění",
@@ -8024,7 +8159,7 @@
           "time": "10:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:10:55.436903"
+      "scraped_at": "2026-08-16T05:25:59.393359"
     },
     {
       "title": "Farářův konec",
@@ -8095,7 +8230,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:38:35.910500"
+      "scraped_at": "2026-08-16T04:54:05.033213"
     },
     {
       "title": "The Black Rider",
@@ -8126,7 +8261,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:07:06.868141"
+      "scraped_at": "2026-08-16T05:21:52.119981"
     },
     {
       "title": "Veselá vdova",
@@ -8152,7 +8287,38 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:24:17.811727"
+      "scraped_at": "2026-08-16T05:38:55.035858"
+    },
+    {
+      "title": "R/Evoluce",
+      "theater_name": "Národní divadlo Brno",
+      "city": "Brno",
+      "region": "Jihomoravský kraj",
+      "source_url": "https://www.i-divadlo.cz/divadlo/narodni-divadlo-brno/revoluce",
+      "editorial_rating": 70.0,
+      "user_rating": 78.0,
+      "cqi": 72.4,
+      "review_count": 27,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "28.9 | 19:00 | divadlo Reduta",
+          "date": "2026-09-28",
+          "time": "19:00"
+        },
+        {
+          "text": "7.10 | 19:00 | divadlo Reduta | 30 minut před představením probíhá dramaturgický úvod",
+          "date": "2026-10-07",
+          "time": "19:00"
+        },
+        {
+          "text": "16.11 | 19:00 | divadlo Reduta",
+          "date": "2026-11-16",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T05:48:28.543652"
     },
     {
       "title": "Nie sme doma",
@@ -8178,7 +8344,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:43:10.700450"
+      "scraped_at": "2026-08-16T05:57:02.743830"
     },
     {
       "title": "Elisabeth",
@@ -8239,7 +8405,7 @@
           "time": "18:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:50:02.025344"
+      "scraped_at": "2026-08-16T06:03:46.677252"
     },
     {
       "title": "Sestra v akci",
@@ -8270,7 +8436,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:58:07.097120"
+      "scraped_at": "2026-08-16T06:11:44.512102"
     },
     {
       "title": "Veselá vdova",
@@ -8296,7 +8462,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:58:11.940225"
+      "scraped_at": "2026-08-16T06:11:47.744092"
     },
     {
       "title": "Láska na první pohřeb",
@@ -8327,7 +8493,7 @@
           "time": "17:30"
         }
       ],
-      "scraped_at": "2026-08-09T07:08:55.988083"
+      "scraped_at": "2026-08-16T06:22:33.177585"
     },
     {
       "title": "Uvnitř banánu",
@@ -8348,7 +8514,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:55:40.001486"
+      "scraped_at": "2026-08-16T05:10:41.384634"
     },
     {
       "title": "Hra, která se zvrtla",
@@ -8424,7 +8590,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:57:24.043290"
+      "scraped_at": "2026-08-16T05:12:20.981066"
     },
     {
       "title": "Krásná vzpomínka",
@@ -8460,7 +8626,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:15.855929"
+      "scraped_at": "2026-08-16T05:36:48.053417"
     },
     {
       "title": "Skořápka",
@@ -8506,7 +8672,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:49.637597"
+      "scraped_at": "2026-08-16T05:37:22.289916"
     },
     {
       "title": "Něžná je noc",
@@ -8537,7 +8703,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:26.165719"
+      "scraped_at": "2026-08-16T05:24:23.931461"
     },
     {
       "title": "Příběh ze zoo",
@@ -8558,7 +8724,7 @@
           "time": "20:00"
         },
         {
-          "text": "17.9 | 19:00",
+          "text": "17.9 | 19:00 | Vyprodáno",
           "date": "2026-09-17",
           "time": "19:00"
         },
@@ -8583,7 +8749,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:30.807035"
+      "scraped_at": "2026-08-16T05:37:05.257123"
     },
     {
       "title": "Upokojenkyně",
@@ -8614,7 +8780,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:11:35.217653"
+      "scraped_at": "2026-08-16T05:26:34.839455"
     },
     {
       "title": "Milostné dopisy",
@@ -8675,7 +8841,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:29:44.061132"
+      "scraped_at": "2026-08-16T05:44:22.505858"
     },
     {
       "title": "Podoba věcí",
@@ -8706,7 +8872,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:52:22.921827"
+      "scraped_at": "2026-08-16T06:06:13.900545"
     },
     {
       "title": "Velká bankovní loupež",
@@ -8727,7 +8893,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:13:45.068192"
+      "scraped_at": "2026-08-16T06:26:56.407324"
     },
     {
       "title": "Proč muži neposlouchají a ženy neumí číst v mapách",
@@ -8858,7 +9024,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:01:41.488172"
+      "scraped_at": "2026-08-16T05:16:32.996098"
     },
     {
       "title": "Veselá vdova",
@@ -8884,7 +9050,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:36:58.799937"
+      "scraped_at": "2026-08-16T05:51:16.694410"
     },
     {
       "title": "Kamarádky",
@@ -8915,7 +9081,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:54:28.468253"
+      "scraped_at": "2026-08-16T06:08:15.417038"
     },
     {
       "title": "S Caroline v kuchyni",
@@ -8936,7 +9102,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:08:22.789929"
+      "scraped_at": "2026-08-16T06:22:04.923028"
     },
     {
       "title": "Wernisch",
@@ -8992,7 +9158,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:41:56.836367"
+      "scraped_at": "2026-08-16T04:57:16.211549"
     },
     {
       "title": "Dějiny násilí",
@@ -9028,7 +9194,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:49:41.404900"
+      "scraped_at": "2026-08-16T05:05:05.337924"
     },
     {
       "title": "Mrzák inishmaanský",
@@ -9069,7 +9235,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:21.310542"
+      "scraped_at": "2026-08-16T05:24:18.422591"
     },
     {
       "title": "Slepice na zádech",
@@ -9110,7 +9276,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:22:55.436323"
+      "scraped_at": "2026-08-16T05:37:26.726210"
     },
     {
       "title": "My Fair Lady",
@@ -9146,7 +9312,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:57:41.756605"
+      "scraped_at": "2026-08-16T06:11:19.788861"
     },
     {
       "title": "Arabela",
@@ -9167,7 +9333,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:08:18.372474"
+      "scraped_at": "2026-08-16T06:22:00.196465"
     },
     {
       "title": "Chyťte Chaplina!",
@@ -9188,7 +9354,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:13:11.862742"
+      "scraped_at": "2026-08-16T06:26:30.866520"
     },
     {
       "title": "Do nebes!",
@@ -9209,7 +9375,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:13:17.999561"
+      "scraped_at": "2026-08-16T06:26:36.637846"
     },
     {
       "title": "Linda Vista",
@@ -9235,7 +9401,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:53:07.793623"
+      "scraped_at": "2026-08-16T05:08:14.977829"
     },
     {
       "title": "Valérie a týden divů",
@@ -9276,7 +9442,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:41:51.392328"
+      "scraped_at": "2026-08-16T04:57:10.112409"
     },
     {
       "title": "Naprostí cizinci",
@@ -9307,7 +9473,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:03:09.262696"
+      "scraped_at": "2026-08-16T05:18:07.108657"
     },
     {
       "title": "Ofélie OnlyFans",
@@ -9328,7 +9494,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:06:48.371575"
+      "scraped_at": "2026-08-16T05:21:36.680611"
     },
     {
       "title": "Lebka z Connemary",
@@ -9404,7 +9570,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:16.041677"
+      "scraped_at": "2026-08-16T05:24:10.901482"
     },
     {
       "title": "Obraz",
@@ -9435,7 +9601,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:53.026298"
+      "scraped_at": "2026-08-16T05:48:22.692278"
     },
     {
       "title": "Nora (Domeček pro panenky)",
@@ -9456,7 +9622,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:59:15.829850"
+      "scraped_at": "2026-08-16T05:14:16.033438"
     },
     {
       "title": "Honzlová",
@@ -9482,7 +9648,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:05:41.396416"
+      "scraped_at": "2026-08-16T05:20:32.912347"
     },
     {
       "title": "Poe",
@@ -9523,7 +9689,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:41:40.082851"
+      "scraped_at": "2026-08-16T04:56:59.140007"
     },
     {
       "title": "Nejbližší",
@@ -9544,7 +9710,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:53:12.428668"
+      "scraped_at": "2026-08-16T05:08:20.761485"
     },
     {
       "title": "Rokenrol",
@@ -9570,7 +9736,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:28:57.538562"
+      "scraped_at": "2026-08-16T05:43:37.637900"
     },
     {
       "title": "Na Větrné hůrce",
@@ -9606,7 +9772,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:55:28.622620"
+      "scraped_at": "2026-08-16T06:09:14.870654"
     },
     {
       "title": "Pravda",
@@ -9637,7 +9803,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:57:56.220340"
+      "scraped_at": "2026-08-16T06:11:35.593853"
     },
     {
       "title": "Mladý Frankenstein",
@@ -9663,7 +9829,7 @@
           "time": "18:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:13:27.852015"
+      "scraped_at": "2026-08-16T06:26:44.559154"
     },
     {
       "title": "Bylo nás pět (tenkrát)",
@@ -9694,7 +9860,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:02:31.281776"
+      "scraped_at": "2026-08-16T05:17:22.083810"
     },
     {
       "title": "Faustiáda aneb Nanebevzetí doktora Fausta",
@@ -9720,7 +9886,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:11:44.137383"
+      "scraped_at": "2026-08-16T05:26:42.393595"
     },
     {
       "title": "Lidovky jdou do řiti",
@@ -9736,7 +9902,7 @@
       "rating_confidence": "user_only",
       "dates": [
         {
-          "text": "15.9 | 19:00 | divadlo Reduta | 30 minut před představením probíhá dramaturgický úvod",
+          "text": "15.9 | 19:00 | divadlo Reduta | 30 minut před představením probíhá dramaturgický úvod. Hostem večera bude po přestávce Renata Kalenská.",
           "date": "2026-09-15",
           "time": "19:00"
         },
@@ -9751,7 +9917,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:33:35.537103"
+      "scraped_at": "2026-08-16T05:48:06.444316"
     },
     {
       "title": "Krásná Anne-Marie",
@@ -9782,7 +9948,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:34:28.980688"
+      "scraped_at": "2026-08-16T05:48:42.872904"
     },
     {
       "title": "Otec",
@@ -9803,7 +9969,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:40:23.259515"
+      "scraped_at": "2026-08-16T05:54:22.301649"
     },
     {
       "title": "Oheň a popel",
@@ -9834,7 +10000,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:44:33.511657"
+      "scraped_at": "2026-08-16T05:58:15.247098"
     },
     {
       "title": "Věřit v šelmy",
@@ -9860,7 +10026,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:41.673187"
+      "scraped_at": "2026-08-16T05:59:25.619749"
     },
     {
       "title": "Bar",
@@ -9881,7 +10047,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:54:32.596767"
+      "scraped_at": "2026-08-16T05:09:34.983744"
     },
     {
       "title": "Konina",
@@ -9902,7 +10068,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:56:11.613829"
+      "scraped_at": "2026-08-16T05:11:08.036935"
     },
     {
       "title": "Ostře sledované vlaky",
@@ -9933,7 +10099,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:58:36.530599"
+      "scraped_at": "2026-08-16T05:13:30.863106"
     },
     {
       "title": "Bílá nemoc",
@@ -9969,7 +10135,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:04:07.919407"
+      "scraped_at": "2026-08-16T05:19:12.679611"
     },
     {
       "title": "Vánoce u Čapků aneb Jak Karel a Olinka vařilidortcukroví",
@@ -10050,7 +10216,7 @@
           "time": "10:45"
         }
       ],
-      "scraped_at": "2026-08-09T06:06:22.945700"
+      "scraped_at": "2026-08-16T05:21:11.685001"
     },
     {
       "title": "Rebelové",
@@ -10096,7 +10262,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:24:12.341921"
+      "scraped_at": "2026-08-16T05:38:49.191116"
     },
     {
       "title": "Židle",
@@ -10122,7 +10288,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:45:14.777988"
+      "scraped_at": "2026-08-16T05:58:58.312076"
     },
     {
       "title": "Donaha! (Hole dupy)",
@@ -10168,7 +10334,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:49:53.837700"
+      "scraped_at": "2026-08-16T06:03:39.060225"
     },
     {
       "title": "Portrét dámy",
@@ -10194,7 +10360,7 @@
           "time": "10:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:09:00.678992"
+      "scraped_at": "2026-08-16T06:22:38.943359"
     },
     {
       "title": "Výstřely na Broadwayi",
@@ -10235,7 +10401,7 @@
           "time": "17:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:21:17.362669"
+      "scraped_at": "2026-08-16T06:34:29.327423"
     },
     {
       "title": "Encyklopedie akčního filmu",
@@ -10256,7 +10422,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:58:56.113649"
+      "scraped_at": "2026-08-16T05:13:50.838809"
     },
     {
       "title": "Anděl Páně",
@@ -10362,7 +10528,7 @@
           "time": "15:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:23:48.433435"
+      "scraped_at": "2026-08-16T05:38:24.819598"
     },
     {
       "title": "Heda Gablerová",
@@ -10418,7 +10584,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:40:41.868453"
+      "scraped_at": "2026-08-16T04:56:00.625191"
     },
     {
       "title": "Ztratili jsme Stalina",
@@ -10442,9 +10608,14 @@
           "text": "30.9 | 19:00 | hrajeme ve Znojmě",
           "date": "2026-09-30",
           "time": "19:00"
+        },
+        {
+          "text": "27.10 | 19:30",
+          "date": "2026-10-27",
+          "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T05:46:55.810758"
+      "scraped_at": "2026-08-16T05:02:24.155957"
     },
     {
       "title": "Štyrský/Toyen/Heisler",
@@ -10480,7 +10651,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:51:05.799292"
+      "scraped_at": "2026-08-16T05:06:25.861435"
     },
     {
       "title": "Příliš krátká telomera",
@@ -10506,7 +10677,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:00:10.295561"
+      "scraped_at": "2026-08-16T05:15:12.635967"
     },
     {
       "title": "Kodaň",
@@ -10532,7 +10703,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:09:01.349749"
+      "scraped_at": "2026-08-16T05:23:54.102856"
     },
     {
       "title": "Gadžové jdou do nebe",
@@ -10558,7 +10729,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:42:26.349462"
+      "scraped_at": "2026-08-16T05:56:20.931357"
     },
     {
       "title": "Indián v ohrožení",
@@ -10584,7 +10755,7 @@
           "time": "19:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:46:12.115596"
+      "scraped_at": "2026-08-16T05:59:56.163516"
     },
     {
       "title": "Slučitelné díly",
@@ -10610,7 +10781,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:09:32.139346"
+      "scraped_at": "2026-08-16T06:23:05.457094"
     },
     {
       "title": "Eva!",
@@ -10629,9 +10800,14 @@
           "text": "15.9 | 19:00",
           "date": "2026-09-15",
           "time": "19:00"
+        },
+        {
+          "text": "31.10 | 19:00",
+          "date": "2026-10-31",
+          "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T07:23:01.640822"
+      "scraped_at": "2026-08-16T06:35:36.347893"
     },
     {
       "title": "Betlém hledá Superstar",
@@ -10687,7 +10863,7 @@
           "time": "10:30"
         }
       ],
-      "scraped_at": "2026-08-09T06:01:23.723759"
+      "scraped_at": "2026-08-16T05:16:18.002271"
     },
     {
       "title": "Občan první jakosti",
@@ -10698,7 +10874,7 @@
       "editorial_rating": 70.0,
       "user_rating": 71.0,
       "cqi": 70.3,
-      "review_count": 44,
+      "review_count": 45,
       "is_critic_verified": true,
       "rating_confidence": "full",
       "dates": [
@@ -10718,7 +10894,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:03:14.004273"
+      "scraped_at": "2026-08-16T05:18:11.559948"
     },
     {
       "title": "Dotknout se prázdna",
@@ -10749,7 +10925,38 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:04:13.392069"
+      "scraped_at": "2026-08-16T05:19:17.618773"
+    },
+    {
+      "title": "Můj malý vůdce",
+      "theater_name": "Městská divadla pražská",
+      "city": "Praha",
+      "region": "Praha",
+      "source_url": "https://www.i-divadlo.cz/divadlo/mestska-divadla-prazska/muj-maly-vudce",
+      "editorial_rating": 70.0,
+      "user_rating": 71.0,
+      "cqi": 70.3,
+      "review_count": 11,
+      "is_critic_verified": true,
+      "rating_confidence": "full",
+      "dates": [
+        {
+          "text": "25.9 | 19:00",
+          "date": "2026-09-25",
+          "time": "19:00"
+        },
+        {
+          "text": "1.10 | 19:00 | + LEKTORSKÝ ÚVOD",
+          "date": "2026-10-01",
+          "time": "19:00"
+        },
+        {
+          "text": "15.10 | 19:00",
+          "date": "2026-10-15",
+          "time": "19:00"
+        }
+      ],
+      "scraped_at": "2026-08-16T05:20:36.667636"
     },
     {
       "title": "Celebrity",
@@ -10770,7 +10977,7 @@
           "time": "20:00"
         }
       ],
-      "scraped_at": "2026-08-09T06:27:29.086899"
+      "scraped_at": "2026-08-16T05:42:24.520132"
     },
     {
       "title": "Bílá Voda",
@@ -10811,7 +11018,7 @@
           "time": "19:00"
         }
       ],
-      "scraped_at": "2026-08-09T05:40:15.727280"
+      "scraped_at": "2026-08-16T04:55:35.885974"
     }
   ]
 }
